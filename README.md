@@ -16,7 +16,7 @@ To use it:
 More info on developing/using unpacked chrome extensions:
 https://developer.chrome.com/extensions/getstarted
 
-License:
+## License
 Original copyright of the work is:
 ```
 // Copyright (c) 2014 The Chromium Authors. All rights reserved.
