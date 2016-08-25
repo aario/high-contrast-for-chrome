@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Przegl\u0105darka alternatywnego tekstu obrazu"
+  },
+  "ALT_APPDESC": {
+    "message": "Zast\u0105p obrazy ich tekstem alternatywnym."
+  },
+  "ALT_INFOBAR": {
+    "message": "Obrazy zast\u0119puje tekst Alt."
+  },
+  "ALT_UNDO": {
+    "message": "Cofnij"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "D\u0142ugie opisy w menu kontekstowym"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Kliknij prawym przyciskiem myszy dowolny element z atrybutem \u201elongdesc\u201d lub \u201earia-describedat\u201d, by zobaczy\u0107 d\u0142ugi opis."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Otw\u00f3rz d\u0142ugi opis w nowej karcie"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Dodaj obramowanie do element\u00f3w z atrybutem aria-describedat lub longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Opcje"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Wysoki kontrast."
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Zmie\u0144 lub odwr\u00f3\u0107 schemat kolor\u00f3w, by tre\u015b\u0107 stron internetowych by\u0142a bardziej czytelna."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normalny"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Wi\u0119kszy kontrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Skala odcieni szaro\u015bci"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Odwr\u00f3cony kolor"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Odwr\u00f3cona skala odcieni szaro\u015bci"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "\u017b\u00f3\u0142ty tekst na czarnym tle"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Ustaw jako schemat domy\u015blny"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Zapomnij dostosowania zapisane w witrynie"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Wysoki kontrast jest w\u0142\u0105czony"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Wysoki kontrast jest wy\u0142\u0105czony"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "W\u0142\u0105cz"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Wy\u0142\u0105cz"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Domy\u015blny schemat kolor\u00f3w:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Schemat kolor\u00f3w dla $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Oznacz pozycj\u0119 kursora przy u\u017cyciu animacji."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Przegl\u0105daj tekst na stronach internetowych, u\u017cywaj\u0105c klawiszy strza\u0142ek."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Przegl\u0105danie przy u\u017cyciu kursora"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Opcje przegl\u0105dania przy u\u017cyciu kursora"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Naci\u015bnij <span class='key'>Alt</span> + <img src='increase_brightness.png'> (klawisz zwi\u0119kszania jasno\u015bci lub F7), by w\u0142\u0105czy\u0107 przegl\u0105danie przy u\u017cyciu kursora. Naci\u015bnij ponownie, by je wy\u0142\u0105czy\u0107."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Naci\u015bnij <span class='key'>F7</span>, by w\u0142\u0105czy\u0107 przegl\u0105danie przy u\u017cyciu kursora. Naci\u015bnij F7 ponownie, by je wy\u0142\u0105czy\u0107."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Oznacz pozycj\u0119 kursora przy u\u017cyciu kr\u00f3tkiego b\u0142ysku."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Gdy najedziesz na link lub element steruj\u0105cy, stan\u0105 si\u0119 one automatycznie aktywne.   Naci\u015bnij <span class='key'>Enter</span>, by klikn\u0105\u0107 link lub przycisk. </p> <p>   Gdy element steruj\u0105cy, kt\u00f3ry jest aktywny, (np. pole tekstowe lub pole listy) przechwytuje   klawisze strza\u0142ek, naci\u015bnij <span class='key'>Esc</span>, a nast\u0119pnie   strza\u0142k\u0119 w lewo lub prawo, by kontynuowa\u0107 przegl\u0105danie przy u\u017cyciu kursora. </p> <p>   Mo\u017cesz te\u017c nacisn\u0105\u0107 <span class='key'>Tab</span>, by przej\u015b\u0107 do   nast\u0119pnego elementu steruj\u0105cego, kt\u00f3ry mo\u017cna aktywowa\u0107. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Gdy kursor przeskoczy o du\u017c\u0105 odleg\u0142o\u015b\u0107:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Polecenia wydawane z klawiatury"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Przytrzymaj <span class='key'>Option</span>, by przechodzi\u0107 do kolejnych s\u0142\u00f3w."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Przytrzymaj <span class='key'>Control</span>, by przechodzi\u0107 do kolejnych s\u0142\u00f3w."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>U\u017cyj klawiszy strza\u0142ek, by porusza\u0107 si\u0119 po dokumencie. </p><p>Kliknij w dowolnym miejscu, by przenie\u015b\u0107 tam kursor. </p> <p>   Naci\u015bnij <span class='key'>Shift</span> + strza\u0142ki, by zaznaczy\u0107 tekst.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Brak potwierdzenia \u2013 po prostu wy\u015bwietl kursor."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "To rozszerzenie dodaje ruchomy kursor na stronie internetowej, dzi\u0119ki czemu mo\u017cesz zaznacza\u0107 tekst, u\u017cywaj\u0105c klawiatury."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Wypr\u00f3buj teraz \u2013 przegl\u0105danie przy u\u017cyciu kursora jest zawsze w\u0142\u0105czone na tej stronie."
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Potwierdzenie wizualne"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Gdy przegl\u0105danie przy u\u017cyciu kursora jest w\u0142\u0105czone:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Korektor kolor\u00f3w"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Dostosowywany filtr kolor\u00f3w, kt\u00f3ry dzia\u0142a na stronach internetowych i poprawia widoczno\u015b\u0107 kolor\u00f3w."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Dostosowanie kolor\u00f3w"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Stopie\u0144"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Krok 1 \u2013 wybierz wiersz zawieraj\u0105cy najbledsze gwiazdki:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Czerwony"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Zielony"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Niebieski"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "W\u0142\u0105czy\u0107?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Krok 2 \u2013 przesu\u0144 suwak, by wszystkie gwiazdki w wybranym wierszu\n        by\u0142y widoczne"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Konfiguracja:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Resetuj"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Anuluj"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Konfiguracja"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Zasady animacji"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Uruchamiaj animacje tylko raz lub wy\u0142\u0105cz je ca\u0142kowicie."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Zasady animacji:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Zezwalaj na wszystkie animowane obrazy."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Zezwalaj na wy\u015bwietlanie animowanych obraz\u00f3w, ale tylko raz."
+  },
+  "ANIMATION_NONE": {
+    "message": "Wy\u0142\u0105cz wszystkie animacje obraz\u00f3w."
+  }
+}

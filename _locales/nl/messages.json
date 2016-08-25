@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Alt-tekstviewer voor afbeelding"
+  },
+  "ALT_APPDESC": {
+    "message": "Afbeeldingen vervangen door hun alternatieve tekst."
+  },
+  "ALT_INFOBAR": {
+    "message": "Afbeeldingen zijn vervangen door de alt-tekst."
+  },
+  "ALT_UNDO": {
+    "message": "Ongedaan maken"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Lange beschrijvingen in contextmenu"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Klik op een item met een kenmerk 'longdesc' of 'aria-describedat' om de lange beschrijving te openen."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Lange beschrijving openen in nieuw tabblad"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Een kader toevoegen aan elementen met een kenmerk 'aria-describedat' of 'longdesc'."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Opties"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Hoog contrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Het kleurenschema van de webpagina's wijzigen om omkeren zodat ze beter leesbaar zijn."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normaal"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Verhoogd contrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Grijstinten"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Omgekeerde kleur"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Omgekeerde grijstinten"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Geel op zwart"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Instellen als standaardschema"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Aanpassingen voor site negeren"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Hoog contrast is ingeschakeld"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Hoog contrast is uitgeschakeld"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Inschakelen"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Uitschakelen"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Standaardkleurenschema:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Kleurenschema voor $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "De positie van de muisaanwijzer markeren met een animatie."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Door de tekst van webpagina's bladeren met de pijltoetsen."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Bladeren met navigatietoetsen"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Opties voor het bladeren met navigatietoetsen"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Druk op <span class='key'>Alt</span> + <img src='increase_brightness.png'> (de toets voor het verhogen van de helderheid of F7) om 'Bladeren met navigatietoetsen' in te schakelen. Druk nogmaals op de toets om de functie weer uit te schakelen."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Druk op <span class='key'>F7</span> om Bladeren met navigatietoetsen in te schakelen. Druk nogmaals op de toets om de functie uit te schakelen."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "De positie van de muisaanwijzer markeren met een snelle knippering."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Wanneer je een link of bedieningselement bereikt, wordt het betreffende item automatisch gemarkeerd. Druk op <span class='key'>Enter</span> om op een link of knop te klikken. </p> <p>   Wanneer een gemarkeerd bedieningselement (zoals een tekstvak of een lijstvak) invoer met pijltoetsen registreert, druk je op <span class='key'>Esc</span> gevolgd door de pijl-links of -rechts om door te gaan met Bladeren met navigatietoetsen. </p> <p>   Je kunt eventueel ook op <span class='key'>Tab</span> drukken om naar het volgende markeerbare bedieningselement te springen. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Wanneer het caret-teken een grote afstand overbrugt:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Toetsenbordopdrachten"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Houd de toets <span class='key'>Option</span> ingedrukt om van woord naar woord te springen."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Houd de toets <span class='key'>Control</span> ingedrukt om van woord naar woord te springen."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Gebruik de pijltoetsen om door het document te navigeren. </p><p>Klik ergens om de muisaanwijzer naar de desbetreffende locatie te verplaatsten. </p> <p>   Gebruik de toets <span class='key'>Shift</span> in combinatie met de pijltoetsen om tekst te selecteren.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Geen feedback, alleen de muisaanwijzer weergeven"
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Deze extensie biedt je een verplaatsbare muisaanwijzer in de webpagina, zodat je tekst kunt selecteren met het toetsenbord."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Nu uitproberen - Bladeren met navigatietoetsen is altijd ingeschakeld op deze pagina!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Visuele feedback"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Wanneer Bladeren met navigatietoetsen is ingeschakeld:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Kleurverbetering"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Een aanpasbaar kleurenfilter dat wordt toegepast op webpagina's om de kleurperceptie te verbeteren."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Kleuraanpassing"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Mate"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Stap 1: selecteer de rij met de meest fletse sterren:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Rood"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Groen"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Blauw"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Inschakelen?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Stap 2: pas de schuifregelaar aan totdat alle sterren op de geselecteerde rij zichtbaar zijn"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Instellen:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Terugzetten"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Annuleren"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Instellen"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Beleid ten aanzien van animatie"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Animaties slechts \u00e9\u00e9n keer uitvoeren of animatie volledig uitschakelen."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Beleid ten aanzien van animatie:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Alle afbeeldingen met animaties toestaan."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Afbeeldingen met animaties toestaan, maar slechts \u00e9\u00e9n keer."
+  },
+  "ANIMATION_NONE": {
+    "message": "Alle afbeeldingsanimatie uitschakelen."
+  }
+}

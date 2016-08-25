@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Alt Text Viewer ng Larawan"
+  },
+  "ALT_APPDESC": {
+    "message": "Palitan ang mga larawan ng alt text ng mga ito."
+  },
+  "ALT_INFOBAR": {
+    "message": "Ang mga larawan ay napalitan na ng alt text ng mga ito."
+  },
+  "ALT_UNDO": {
+    "message": "I-undo"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Mahahabang Paglalarawan sa Menu ng Konteksto"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Mag-right click sa anumang bagay na may attribute na \"longdesc\" o \"aria-describedat\" upang i-access ang mahabang paglalarawan nito."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Buksan Ang Mahabang Paglalarawan Sa Bagong Tab"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Magdagdag ng border sa mga elementong may mga attribute na aria-describedat o longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Mga Pagpipilian"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Mataas na Contrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Baguhin o i-invert ang scheme ng kulay upang gawing mas madaling basahin ang mga webpage."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normal"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Dinagdagan ang Contrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Grayscale"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Naka-invert na Kulay"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Naka-invert na Grayscale"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Yellow on Black"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Itakda bilang default na scheme"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Kalimutan ang mga pag-customize ng site"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Naka-enable ang Mataas na Contrast"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Naka-disable ang Mataas na Contrast"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "I-enable"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Huwag paganahin"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Default na scheme ng kulay:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Scheme ng kulay para sa $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "I-highlight ang posisyon ng cursor sa pamamagitan ng animation."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "I-browse ang text ng mga web page gamit ang mga arrow key."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Pagba-browse ng Caret"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Mga Opsyon sa Pagba-browse ng Caret"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Pindutin ang <span class='key'>Alt</span> + <img src='increase_brightness.png'> (ang key na Dagdagan ang Liwanag, o F7) upang i-on ang Pagba-browse ng Caret. Pindutin itong muli upang i-off ito."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Pindutin ang <span class='key'>F7</span> upang i-on ang Pagba-browse ng Caret. Pindutin itong muli upang i-off ito."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "I-highlight ang posisyon ng cursor sa pamamagitan ng mabilisang pagkislap."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Kapag napunta ka sa isang link o kontrol, awtomatikong tumutuon dito.   Pindutin ang <span class='key'>Enter</span> upang mag-click ng link o button. </p> <p>   Kapag nagka-capture ng mga arrow key ang kontrol kung saan nakatuon (tulad ng text box o kahon ng listahan), pindutin ang <span class='key'>Esc</span> na sinusundan ng pakaliwa o pakanang arrow upang ipagpatuloy ang Pagba-browse ng Caret. </p> <p>   Bilang kahalili, pindutin ang <span class='key'>Tab</span> upang lumipat sa susunod na kontrol kung saan maaaring tumuon. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Kapag lumaktaw ang caret nang malayo:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Mga Command sa Keyboard"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Pindutin nang matagal ang <span class='key'>Opsyon</span> upang lumipat ayon sa mga salita."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Pindutin nang matagal ang <span class='key'>Control</span> upang lumipat ayon sa mga salita."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Gamitin ang mga arrow key upang lumipat sa kabuuan ng dokumento. </p><p>Mag-click saanman upang ilipat ang cursor sa lokasyong iyon. </p> <p>   Pindutin ang <span class='key'>Shift</span> + mga arrow upang pumili ng text.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Walang feedback, ipakita lang ang cursor."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Nagbibigay sa iyo ang extension na ito ng naililipat na cursor sa web page, na nagbibigay-daan sa iyo na pumili ng text gamit ang keyboard."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Subukan ito ngayon - palaging naka-enable ang Pagba-browse ng Caret sa page na ito!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Visual na Feedback"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Kapag naka-enable ang Pagba-browse ng Caret:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Isang naku-customize na filter para sa kulay na nalalapat sa mga webpage upang pahusayin ang pagtingin sa kulay."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Pagsasaayos ng kulay"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Antas"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Hakbang 1: Piliin ang row na may mga pinakamalabong star:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Pula"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Berde"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Asul"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Gusto mo ba itong i-enable?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Hakbang 2: Ayusin ang slider hanggang sa nakikita ang lahat ng star sa\n        piniling row"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Pag-setup:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "I-reset"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Ikansela"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Pag-setup"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Patakaran sa Animation"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Paganahin lang nang isang beses ang mga animation, o ganap na i-disable ang animation."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Patakaran sa Animation:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Payagan ang lahat ng animated na larawan."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Payagan ang mga animated na larawan, ngunit isang beses lang."
+  },
+  "ANIMATION_NONE": {
+    "message": "I-disable ang lahat ng animation ng larawan."
+  }
+}

@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Image Alt Text Viewer"
+  },
+  "ALT_APPDESC": {
+    "message": "Pakeisti vaizdus j\u0173 \u201ealt\u201c tekstu."
+  },
+  "ALT_INFOBAR": {
+    "message": "Vaizdai pakeisti alternatyviu tekstu."
+  },
+  "ALT_UNDO": {
+    "message": "Anuliuoti"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Long Descriptions in Context Menu"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "De\u0161iniuoju pel\u0117s klavi\u0161u spustel\u0117kite bet kur\u012f element\u0105 su atributu \u201earia-describedat\u201c arba \u201elongdesc\u201c, kad per\u017ei\u016br\u0117tum\u0117te ilg\u0105 apra\u0161\u0105."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Atidaryti ilg\u0105 apra\u0161\u0105 naujame skirtuke"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Prid\u0117kite kra\u0161tines prie element\u0173 naudodami atribut\u0105 \u201earia-describedat\u201c arba \u201elongdesc\u201c."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Parinktys"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Didelis kontrastas"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Pakeiskite arba invertuokite spalv\u0173 schem\u0105, kad tinklalapi\u0173 tekst\u0105 b\u016bt\u0173 galima lengviau skaityti."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "\u012eprastas"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Didesnis kontrastas"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Pilkumo tonas"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Invertuotoji spalva"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Invertuotasis pilkumo tonas"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Geltona ant juodos"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Nustatyti kaip numatyt\u0105j\u0105 schem\u0105"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Pamir\u0161ti svetain\u0117s tinkinimus"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Didelis kontrastas \u012fgalintas"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Didelis kontrastas i\u0161jungtas"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "\u012egalinti"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Neleisti"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Numatytoji spalv\u0173 schema:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Spalv\u0173 schema, skirta svetainei $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Pary\u0161kinti \u017eymeklio viet\u0105 naudojant animacij\u0105."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Nar\u0161ykite tinklalapi\u0173 tekst\u0105 naudodami rodykli\u0173 klavi\u0161us."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Caret Browsing"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "\u201eCaret Browsing\u201c parinktys"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Paspauskite <span class='key'>Alt</span> ir <img src='increase_brightness.png'> (\u0161viesumo didinimo klavi\u0161\u0105 arba F7), kad \u012fjungtum\u0117te \u201eCaret Browsing\u201c. Paspauskite klavi\u0161\u0105 dar kart\u0105, kad funkcij\u0105 i\u0161jungtum\u0117te."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Paspauskite <span class='key'>F7</span>, kad \u012fjungtum\u0117te \u201eCaret Browsing\u201c. Paspauskite klavi\u0161\u0105 dar kart\u0105, kad funkcij\u0105 i\u0161jungtum\u0117te."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Pary\u0161kinti \u017eymeklio viet\u0105 naudojant greito mirks\u0117jimo funkcij\u0105."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Kai pasiekiate nuorod\u0105 ar valdikl\u012f, jis automati\u0161kai i\u0161ry\u0161kinamas. Paspauskite <span class='key'>Enter</span>, kad spustel\u0117tum\u0117te nuorod\u0105 ar mygtuk\u0105. </p> <p>   Kai i\u0161ry\u0161kintas valdiklis (pvz., teksto laukelis ar s\u0105ra\u0161o laukelis) i\u0161jungia rodykli\u0173 klavi\u0161us, paspauskite <span class='key'>Esc</span> ir rodykl\u0119 kair\u0117n ar de\u0161in\u0117n, kad toliau naudotum\u0117te \u201eCaret Browsing\u201c funkcij\u0105. </p> <p>   Taip pat paspauskite <span class='key'>tabuliavimo klavi\u0161\u0105</span>, kad pereitum\u0117te \u012f kit\u0105 i\u0161ry\u0161kinam\u0105 valdikl\u012f. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Kai \u017eymeklis per\u0161oka labai toli:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Klaviat\u016bros komandos"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Laikykite paspaud\u0119 <span class='key'>Option</span>, kad pereitum\u0117te \u017eod\u017eiais."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Laikykite paspaud\u0119 <span class='key'>Control</span>, kad pereitum\u0117te \u017eod\u017eiais."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Naudokite rodykli\u0173 klavi\u0161us, kad pereitum\u0117te per dokument\u0105. </p><p>Spustel\u0117kite bet kurioje vietoje, kad perkeltum\u0117te \u017eymekl\u012f \u012f t\u0105 viet\u0105. </p> <p>   Paspauskite <span class='key'>Shift</span> ir rodykli\u0173 klavi\u0161us, kas pasirinktum\u0117te tekst\u0105.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Joki\u0173 atsiliepim\u0173, tik rodyti \u017eymekl\u012f."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Naudojant \u0161\u012f pl\u0117tin\u012f tinklalapyje pateikiamas perkeliamas \u017eymeklis, kad gal\u0117tum\u0117te pasirinkti tekst\u0105 naudodami klaviat\u016br\u0105."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "I\u0161bandykite dabar \u2013 \u201eCaret Browsing\u201c visada \u012fgalinta \u0161iame puslapyje!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Vizuali reakcija"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Kai \u201eCaret Browsing\u201c \u012fgalinta:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Spalv\u0173 tobulinimo priemon\u0117"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Visiems tinklalapiams pritaikytas tinkintas spalv\u0173 filtras, kad spalvos b\u016bt\u0173 rodomos geriau."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Spalv\u0173 reguliavimas"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Laipsnis"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "1 veiksmas: pasirinkite eilut\u0119 su blankiausiomis \u017evaig\u017edut\u0117mis:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Raudona"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "\u017dalia"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "M\u0117lyna"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "\u012egalinti?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "2 veiksmas: koreguokite \u0161liau\u017eikl\u012f, kol visos \u017evaig\u017edut\u0117s bus matomos\n        pasirinktoje eilut\u0117je"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "S\u0105ranka:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Nustatyti i\u0161 naujo"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "Gerai"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "At\u0161aukti"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "S\u0105ranka"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Animacijos politika"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Animacijas paleisti tik vien\u0105 kart\u0105 arba i\u0161jungti visi\u0161kai."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Animacijos politika:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Rodyti visus animuotus vaizdus."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Leisti animuotus vaizdus, bet tik vien\u0105 kart\u0105."
+  },
+  "ANIMATION_NONE": {
+    "message": "I\u0161jungti vis\u0173 vaizd\u0173 animacijas."
+  }
+}

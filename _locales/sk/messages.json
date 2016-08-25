@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Zobrazova\u010d textu obr\u00e1zkov"
+  },
+  "ALT_APPDESC": {
+    "message": "Nahradenie obr\u00e1zkov ich alternat\u00edvnym textom."
+  },
+  "ALT_INFOBAR": {
+    "message": "Obr\u00e1zky boli nahraden\u00e9 textom z atrib\u00fatu alt."
+  },
+  "ALT_UNDO": {
+    "message": "Sp\u00e4\u0165"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Dlh\u00e9 popisy v kontextovej ponuke"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Kliknut\u00edm prav\u00fdm tla\u010didlom na \u013eubovo\u013en\u00fd prvok s atrib\u00fatom \u201elongdesc\u201c alebo \u201earia-describedat\u201c z\u00edskate jeho dlh\u00fd popis."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Otvori\u0165 dlh\u00fd popis na novej karte"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Prida\u0165 ohrani\u010denie k prvkom s atrib\u00fatom aria-describedat alebo longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Mo\u017enosti"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Vysok\u00fd kontrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Zmena alebo invertovanie farebnej sch\u00e9my, aby sa dali webov\u00e9 str\u00e1nky \u013eah\u0161ie \u010d\u00edta\u0165."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Norm\u00e1lny"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Zv\u00fd\u0161en\u00fd kontrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Odtiene sivej"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Invertovan\u00e9 farby"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Invertovan\u00e9 odtiene sivej"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "\u017dlt\u00e9 na \u010diernom"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Nastavi\u0165 ako predvolen\u00fa sch\u00e9mu"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Odstr\u00e1ni\u0165 prisp\u00f4sobenia str\u00e1nok"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Vysok\u00fd kontrast je povolen\u00fd"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Vysok\u00fd kontrast je zak\u00e1zan\u00fd"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Aktivova\u0165"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Zak\u00e1za\u0165"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Predvolebn\u00e1 farebn\u00e1 sch\u00e9ma:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Farebn\u00e1 sch\u00e9ma pre str\u00e1nky $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Zv\u00fdrazni\u0165 poz\u00edciu kurzora pomocou anim\u00e1cie."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Prehliadajte text na webov\u00fdch str\u00e1nkach pomocou kl\u00e1vesov \u0161\u00edpok."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Prehliadanie Caret"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Mo\u017enosti prehliadania Caret"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Stla\u010den\u00edm kl\u00e1vesa <span class='key'>Alt</span> a <img src='increase_brightness.png'> (kl\u00e1ves na zv\u00fd\u0161enie jasu alebo kl\u00e1ves F7) zapnete prehliadanie Caret. Op\u00e4tovn\u00fdm stla\u010den\u00edm kl\u00e1vesov ho vypnete."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Ak chcete zapn\u00fa\u0165 prehliadanie Caret, stla\u010dte kl\u00e1ves <span class='key'>F7</span>. Op\u00e4tovn\u00fdm stla\u010den\u00edm ho vypnete."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Zv\u00fdrazni\u0165 poz\u00edciu kurzora kr\u00e1tkym z\u00e1bleskom."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Ke\u010f dosiahnete odkaz alebo ovl\u00e1dac\u00ed prvok, automaticky sa vyberie.   Ak chcete na odkaz alebo tla\u010didlo klikn\u00fa\u0165, stla\u010dte kl\u00e1ves <span class='key'>Enter</span>. </p> <p>   Ke\u010f vybran\u00fd ovl\u00e1dac\u00ed prvok (napr\u00edklad textov\u00e9 pole alebo pole zoznamu) registruje kl\u00e1vesy \u0161\u00edpok, stla\u010dte kl\u00e1ves <span class='key'>Esc</span> a \u0161\u00edpku do\u013eava \u010di doprava a pokra\u010dujte tak v prehliadan\u00ed Caret. </p> <p>   Pr\u00edpadne stla\u010dte kl\u00e1ves <span class='key'>Tab</span> a prejdite na \u010fal\u0161\u00ed ovl\u00e1dac\u00ed prvok, ktor\u00fd je mo\u017en\u00e9 tak\u00fdmto sp\u00f4sobom vybra\u0165. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Ke\u010f pri prehliadan\u00ed Caret presko\u010d\u00edte \u010falej:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Pr\u00edkazy na kl\u00e1vesnici"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Ak sa chcete pos\u00fava\u0165 po slov\u00e1ch, stla\u010dte kl\u00e1ves <span class='key'>Option</span>."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Stla\u010den\u00edm kl\u00e1vesa <span class='key'>Control</span> a jeho podr\u017ean\u00edm prech\u00e1dzajte po slov\u00e1ch."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Pomocou kl\u00e1vesov \u0161\u00edpok m\u00f4\u017eete prech\u00e1dza\u0165 dokument. </p><p>Kliknut\u00edm na \u013eubovo\u013en\u00e9 miesto presuniete kurzor na toto miesto. </p> <p>   Stla\u010den\u00edm kl\u00e1vesa <span class='key'>Shift</span> a \u0161\u00edpok vyberiete text.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "\u017diadna odozva, iba zobrazi\u0165 kurzor"
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Toto roz\u0161\u00edrenie v\u00e1m poskytne pohybliv\u00fd kurzor na webovej str\u00e1nke, ktor\u00fd v\u00e1m umo\u017en\u00ed vybera\u0165 text pomocou kl\u00e1vesnice."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Vysk\u00fa\u0161ajte to \u2013 prehliadanie Caret je na tejto str\u00e1nke v\u017edy povolen\u00e9!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Vizu\u00e1lna odozva"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Ke\u010f je prehliadanie Caret povolen\u00e9:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Prisp\u00f4sobite\u013en\u00fd filter farieb pou\u017eit\u00fd na webov\u00fdch str\u00e1nkach, ktor\u00fd zlep\u0161uje vn\u00edmanie farieb."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "\u00daprava farieb"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Stupe\u0148"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Krok 1 \u2013 vyberte riadok s najslab\u0161\u00edmi hviezdi\u010dkami:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "\u010cerven\u00e1"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Zelen\u00e1"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Modr\u00e1"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Povoli\u0165?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Krok 2 \u2013 upravte pos\u00fava\u010d tak, aby boli vidite\u013en\u00e9 v\u0161etky hviezdi\u010dky\n        vo vybratom riadku"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Nastavenie:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Obnovi\u0165"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Zru\u0161i\u0165"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Nastavi\u0165"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Pravidl\u00e1 pre anim\u00e1cie"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Spustite anim\u00e1ciu iba raz alebo ju \u00faplne zak\u00e1\u017ete."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Pravidl\u00e1 pre anim\u00e1cie:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Povoli\u0165 v\u0161etky animovan\u00e9 obr\u00e1zky"
+  },
+  "ANIMATION_ONCE": {
+    "message": "Povoli\u0165 animovan\u00e9 obr\u00e1zky, no iba raz"
+  },
+  "ANIMATION_NONE": {
+    "message": "Zak\u00e1za\u0165 v\u0161etky anim\u00e1cie obr\u00e1zkov"
+  }
+}

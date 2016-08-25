@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Vizualizator text pentru imagini Alt"
+  },
+  "ALT_APPDESC": {
+    "message": "\u00cenlocuie\u0219te imaginile cu textul alternativ."
+  },
+  "ALT_INFOBAR": {
+    "message": "Imaginile au fost \u00eenlocuite cu textul \u201ealt\u201d."
+  },
+  "ALT_UNDO": {
+    "message": "Anuleaz\u0103"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Descrieri lungi \u00een meniul contextual"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "D\u0103 clic dreapta pe orice cu un atribut \u201elongdesc\u201d sau \u201earia-describedat\u201d pentru a accesa descrierea lung\u0103."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Deschide descrierea lung\u0103 \u00eentr-o fil\u0103 nou\u0103"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Adaug\u0103 chenare la elementele cu atributele aria-describedat sau longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Op\u021biuni"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Contrast mare"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Modific\u0103 sau inverseaz\u0103 schema de culori pentru a facilita citirea paginilor web."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normal"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Contrast m\u0103rit"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Tonuri de gri"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Culoare inversat\u0103"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Tonuri de gri inversate"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Galben pe negru"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Seteaz\u0103 ca schem\u0103 prestabilit\u0103"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "\u0218terge personaliz\u0103rile site-ului"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Contrastul mare este activat"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Contrastul mare este dezactivat"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Activeaz\u0103"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Dezactiveaz\u0103"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Schem\u0103 de culori prestabilit\u0103:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Schem\u0103 de culori pentru $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Eviden\u021biaz\u0103 pozi\u021bia cursorului cu o anima\u021bie."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "R\u0103sfoie\u0219te textul paginilor web cu ajutorul tastelor s\u0103geat\u0103."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Navigare cu tastatura"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Op\u021biuni de navigare cu tastatura"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Apas\u0103 pe <span class='key'>Alt</span> + <img src='increase_brightness.png'> (tasta de m\u0103rire a luminozit\u0103\u021bii sau F7) pentru a activa navigarea cu tastatura. Apas\u0103 din nou pentru a o dezactiva."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Apas\u0103 pe <span class='key'>F7</span> pentru a activa navigarea cu tastatura. Apas\u0103 din nou pentru a o dezactiva."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Eviden\u021biaz\u0103 pozi\u021bia cursorului cu o clipire intermitent\u0103 rapid\u0103."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>C\u00e2nd ajungi la un link sau la o comand\u0103, este focalizat\u0103 automat Apas\u0103 pe <span class='key'>Enter</span> pentru a da clic pe un link sau pe un buton. </p> <p> C\u00e2nd o comand\u0103 focalizat\u0103 (cum ar fi o caset\u0103 text sau o caset\u0103 list\u0103) folose\u0219te tastele s\u0103geat\u0103, apas\u0103 pe <span class='key'>Esc</span>, apoi pe s\u0103geata spre st\u00e2nga sau spre dreapta pentru a continua navigarea cu tastatura. </p> <p> Alternativ, apas\u0103 pe <span class='key'>Tab</span> pentru a te deplasa la urm\u0103toarea comand\u0103 ce poate fi focalizat\u0103.</p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "C\u00e2nd cursorul sare la o distan\u021b\u0103 mare:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Comenzi de la tastatur\u0103"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Apas\u0103 lung pe <span class='key'>Op\u021biune</span> pentru a te deplasa cuv\u00e2nt cu cuv\u00e2nt."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Apas\u0103 lung pe <span class='key'>Control</span> pentru a te deplasa cuv\u00e2nt cu cuv\u00e2nt."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Folose\u0219te tastele s\u0103geat\u0103 pentru a te deplasa prin document. </p><p>D\u0103 clic oriunde pentru a muta cursorul \u00een locul respectiv. </p> <p>   Apas\u0103 pe <span class='key'>Shift</span> + s\u0103ge\u021bi pentru a selecta textul.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Niciun feedback. Arat\u0103 doar cursorul."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Aceast\u0103 extensie \u00ee\u021bi ofer\u0103 un cursor ce se poate deplasa \u00een pagina web, cu care po\u021bi s\u0103 selectezi textul cu tastatura."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "\u00cencearc\u0103 acum. Navigarea cu tastatura este activat\u0103 \u00eentotdeauna \u00een aceast\u0103 pagin\u0103!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Feedback vizual"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "C\u00e2nd navigarea cu tastatura este activat\u0103:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Un filtru de culoare care poate fi personalizat \u0219i care se aplic\u0103 paginilor web pentru a \u00eembun\u0103t\u0103\u021bi percep\u021bia culorilor."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Ajustarea culorilor"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Gradul"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Pasul 1: selecteaz\u0103 r\u00e2ndul cu stelele cele mai estompate:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Ro\u0219u"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Verde"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Albastru"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Activezi?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Pasul 2: ajusteaz\u0103 glisorul p\u00e2n\u0103 c\u00e2nd toate stelele sunt vizibile \u00een\n        r\u00e2ndul selectat"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Configureaz\u0103:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Reseteaz\u0103"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Anuleaz\u0103"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Configureaz\u0103"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Politica privind anima\u021bia"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Ruleaz\u0103 anima\u021biile numai o singur\u0103 dat\u0103 sau dezactiveaz\u0103 complet anima\u021biile."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Politica privind anima\u021bia:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Permite toate imaginile animate."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Permite imaginile animate, dar numai o singur\u0103 dat\u0103."
+  },
+  "ANIMATION_NONE": {
+    "message": "Dezactiveaz\u0103 toate imaginile animate."
+  }
+}

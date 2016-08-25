@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Visualitzador del text Alt de la imatge"
+  },
+  "ALT_APPDESC": {
+    "message": "Substitueix les imatges pel text alternatiu."
+  },
+  "ALT_INFOBAR": {
+    "message": "Les imatges s'han substitu\u00eft pel seu text alternatiu."
+  },
+  "ALT_UNDO": {
+    "message": "Desf\u00e9s"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Descripcions llargues al men\u00fa contextual"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Feu clic en qualsevol element amb un atribut \"longdesc\" o \"aria-describedat\" per accedir a la seva descripci\u00f3 llarga."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Obre la descripci\u00f3 llarga en una pestanya nova"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Afegeix una vora als elements amb atributs \"aria-describedat\" o \"longdesc\"."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Opcions"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Contrast elevat"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Canvia o inverteix l'esquema de colors perqu\u00e8 les p\u00e0gines web siguin m\u00e9s f\u00e0cils de llegir."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normal"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Contrast augmentat"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Escala de grisos"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Color invertit"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Escala de grisos invertida"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Groc sobre negre"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Estableix com a esquema predeterminat"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Oblida les personalitzacions del lloc"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "El contrast alt est\u00e0 activat."
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "El contrast elevat est\u00e0 desactivat."
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Activa"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Desactiva"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Esquema de colors predeterminat:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Esquema de color per a $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Destaqueu la posici\u00f3 del cursor amb una animaci\u00f3."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Permet navegar pel text de p\u00e0gines web mitjan\u00e7ant les tecles de fletxa."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Navegaci\u00f3 mitjan\u00e7ant la marca d'inserci\u00f3"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Opcions de navegaci\u00f3 mitjan\u00e7ant la marca d'inserci\u00f3"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Premeu <span class='key'>Alt</span> + <img src='increase_brightness.png'> (la tecla per augmentar la brillantor o F7) per activar la navegaci\u00f3 mitjan\u00e7ant la marca d'inserci\u00f3. Torneu a pr\u00e9mer aquesta combinaci\u00f3 de tecles per desactivar-la."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Premeu <span class='key'>F7</span> per activar la navegaci\u00f3 mitjan\u00e7ant la marca d'inserci\u00f3. Torneu a pr\u00e9mer F7 per desactivar-la."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Destaqueu la posici\u00f3 del cursor amb un parpelleig r\u00e0pid."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Quan aneu a un enlla\u00e7 o control, se centra autom\u00e0ticament.   Premeu <span class='key'>Retorn</span> per fer clic en un enlla\u00e7 o bot\u00f3. </p> <p>   Quan un control enfocat (com un quadre de text o un quadre de llista) capti les tecles de fletxa, premeu la tecla <span class='key'>Esc</span> seguida de la fletxa esquerra o dreta per continuar amb la navegaci\u00f3 mitjan\u00e7ant la marca d'inserci\u00f3. </p> <p>   Tamb\u00e9 podeu pr\u00e9mer la tecla <span class='key'>Tab</span> per anar al control seg\u00fcent que es pugui enfocar. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Quan la marca d'inserci\u00f3 salta una dist\u00e0ncia gran:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Ordres del teclat"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Manteniu premuda la tecla d'<span class='key'>opci\u00f3</span> per despla\u00e7ar-vos per les paraules."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Manteniu premuda la tecla <span class='key'>Control</span> per despla\u00e7ar-vos per les paraules."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Feu servir les tecles de fletxa per despla\u00e7ar-vos pel document. </p><p>Feu clic en qualsevol lloc per despla\u00e7ar-hi el cursor. </p> <p>   Premeu <span class='key'>Maj</span> + les tecles de fletxa per seleccionar el text.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Sense suggeriments, nom\u00e9s mostra el cursor"
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Aquesta extensi\u00f3 proporciona un cursor m\u00f2bil a la p\u00e0gina web que permet seleccionar el text amb el teclat."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Proveu-ho ara. La navegaci\u00f3 mitjan\u00e7ant la marca d'inserci\u00f3 est\u00e0 sempre activada en aquesta p\u00e0gina."
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Suggeriments visuals"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Quan la navegaci\u00f3 mitjan\u00e7ant la marca d'inserci\u00f3 est\u00e0 activada:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Optimitzador del color"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Un filtre de color personalitzable que s'aplica en p\u00e0gines web per millorar la percepci\u00f3 del color."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Ajust del color"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Percentatge"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Pas 1: seleccioneu la fila amb les estrelles m\u00e9s t\u00e8nues"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Vermell"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Verd"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Blau"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Activa"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Pas 2: ajusteu el control lliscant fins que es vegin totes les estrelles\n        de la fila seleccionada"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Configuraci\u00f3:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Restableix"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "D'acord"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Cancel\u00b7la"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Configuraci\u00f3"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Pol\u00edtica d'animaci\u00f3"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Executeu les animacions nom\u00e9s una vegada o desactiveu-les completament."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Pol\u00edtica d'animaci\u00f3:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Permeteu totes les imatges animades."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Permeteu les imatges animades, per\u00f2 nom\u00e9s una vegada."
+  },
+  "ANIMATION_NONE": {
+    "message": "Desactiveu totes les animacions d'imatge."
+  }
+}

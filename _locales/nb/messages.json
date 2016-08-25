@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Visningsprogram for alt-bildetekst"
+  },
+  "ALT_APPDESC": {
+    "message": "Erstatt bildene med den alternative teksten for dem."
+  },
+  "ALT_INFOBAR": {
+    "message": "Bilder er erstattet av alt-tekst."
+  },
+  "ALT_UNDO": {
+    "message": "Angre"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Lange beskrivelser p\u00e5 hurtigmenyen"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "H\u00f8yreklikk p\u00e5 noe med et \u00ablongdesc\u00bb- eller \u00abaria-describedat\u00bb-attributt for \u00e5 f\u00e5 tilgang til den lange beskrivelsen."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "\u00c5pne lang beskrivelse i ny fane"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Legg til kantlinje p\u00e5 elementer med \u00abaria-describedat\u00bb- eller \u00ablongdesc\u00bb-attributter."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Alternativer"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "H\u00f8y kontrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Endre eller inverter fargevalget for \u00e5 gj\u00f8re det lettere \u00e5 lese nettsider."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normal"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "\u00d8kt kontrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Gr\u00e5toner"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Invertert farge"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Inverterte gr\u00e5toner"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Gult p\u00e5 svart"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Angi som standardvalg"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Fjern tilpasninger av nettsted"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "H\u00f8y kontrast er aktivert"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "H\u00f8y kontrast er deaktivert"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Sl\u00e5 p\u00e5"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Sl\u00e5 av"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Standard fargevalg:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Fargevalg for $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Fremhev mark\u00f8rposisjonen med animasjon."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Bla gjennom teksten p\u00e5 nettsidene ved hjelp av piltastene."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Mark\u00f8rsurfing"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Alternativer for mark\u00f8rsurfing"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Trykk p\u00e5 <span class='key'>Alt</span> + <img src='increase_brightness.png'> (\u00f8k lysstyrke-tasten eller F7) for \u00e5 sl\u00e5 p\u00e5 mark\u00f8rsurfing. Trykk p\u00e5 nytt for \u00e5 sl\u00e5 av."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Trykk p\u00e5 <span class='key'>F7</span> for \u00e5 sl\u00e5 p\u00e5 mark\u00f8rsurfing. Trykk p\u00e5 nytt for \u00e5 sl\u00e5 det av igjen."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Fremhev mark\u00f8rposisjonen med et raskt blink."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>N\u00e5r du kommer til en link eller kontroll, f\u00e5r den automatisk fokus. Trykk p\u00e5 <span class='key'>Enter</span>-tasten for \u00e5 klikke p\u00e5 en link eller knapp. </p> <p>N\u00e5r en fokusert kontroll (som en tekstboks eller listeboks) registrerer trykk p\u00e5 piltastene, kan du trykke p\u00e5 <span class='key'>Esc</span> etterfulgt av venstre eller h\u00f8yre pil for \u00e5 fortsette med mark\u00f8rsurfing.</p> <p> Du kan ogs\u00e5 trykke p\u00e5 <span class='key'>Tab</span> for \u00e5 flytte til den neste kontrollen som f\u00e5 fokus.</p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "N\u00e5r mark\u00f8ren flyttes et langt stykke:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Tastaturkommandoer"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Hold nede <span class='key'>Option</span>-tasten for \u00e5 flytte mark\u00f8ren ord for ord."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Hold <span class='key'>Ctrl-tasten</span> nede for \u00e5 flytte mark\u00f8ren ord for ord."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Bruk piltastene for \u00e5 bevege deg gjennom hele dokumentet. </p><p>Klikk hvor som helst for \u00e5 flytte mark\u00f8ren dit du klikker.</p> <p>Trykk p\u00e5 <span class='key'>Shift</span> + piltaster for \u00e5 velge tekst.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Ingen tilbakemelding, bare vis mark\u00f8ren."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Denne utvidelsen gir deg en flyttbar mark\u00f8r p\u00e5 nettsiden, slik at du kan merke tekst med tastaturet."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Pr\u00f8v det n\u00e5 \u2013 mark\u00f8rsurfing er alltid aktivert p\u00e5 denne siden!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Visuell tilbakemelding"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "N\u00e5r mark\u00f8rsurfing er aktivert:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Et egendefinerbart fargefilter brukes p\u00e5 nettsteder for \u00e5 forbedre fargeoppfattelsen."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Fargejustering"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Grad"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Trinn 1: Velg raden med de svakeste stjernene:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "R\u00f8d"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Gr\u00f8nn"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Bl\u00e5"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Sl\u00e5 p\u00e5 utvidelsen"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Trinn 2: Juster glidebryteren til alle stjernene er synlige p\u00e5 den\n        valgte raden"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Konfigurasjon:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Tilbakestill"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Avbryt"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Konfigurer"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Animasjonsretningslinjer"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Kj\u00f8r animasjoner bare \u00e9n gang, eller sl\u00e5 av animasjoner helt."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Animasjonsretningslinjer:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Tillat alle animerte bilder."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Tillat animerte bilder, men bare \u00e9n gang."
+  },
+  "ANIMATION_NONE": {
+    "message": "Sl\u00e5 av alle bildeanimasjoner."
+  }
+}

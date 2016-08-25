@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Image Alt Text Viewer"
+  },
+  "ALT_APPDESC": {
+    "message": "Zamenjava slik z nadomestnim besedilom."
+  },
+  "ALT_INFOBAR": {
+    "message": "Slike so zamenjane s svojim besedilom \u00bbalt\u00ab."
+  },
+  "ALT_UNDO": {
+    "message": "Razveljavi"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Dalj\u0161i opisi v kontekstnem meniju"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "\u010ce \u017eelite dostopati do dalj\u0161ega opisa, z desno tipko mi\u0161ke kliknite na kateri koli element z atributom \u00bblongdesc\u00ab ali \u00bbaria-describedat\u00ab."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Odpri dalj\u0161i opis na novem zavihku"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Dodaj obrobo elementom z atributom \u00bbaria-describedat\u00ab ali \u00bblongdesc\u00ab."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Mo\u017enosti"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Visok kontrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Spreminjanje ali obra\u010danje barvne sheme zaradi la\u017ejega branja spletnih strani."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Obi\u010dajen"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Povi\u0161an kontrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Sivine"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Obrnjene barve"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Obrnjene sivine"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Rumeno na \u010drnem"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Nastavi kot privzeto shemo"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Pozabi prilagoditve spletnega mesta"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Visok kontrast je omogo\u010den"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Visok kontrast je onemogo\u010den"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Omogo\u010di"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Onemogo\u010di"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Privzeta barvna shema:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Barvna shema za spletno mesto $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Ozna\u010ditev polo\u017eaja kazalca z animacijo."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Brskajte po besedilu spletnih strani s pu\u0161\u010di\u010dnimi tipkami."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Brskanje s kazalko"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Mo\u017enosti brskanja s kazalko"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Pritisnite tipko <span class='key'>Alt</span> in <img src='increase_brightness.png'> (tipka za pove\u010danje svetlosti ali F7), \u010de \u017eelite vklopiti brskanje s kazalko. Znova pritisnite kombinacijo tipk, \u010de ga \u017eelite izklopiti."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Pritisnite tipko <span class='key'>F7</span>, \u010de \u017eelite vklopiti brskanje s kazalko. Pritisnite tipko znova, \u010de ga \u017eelite izklopiti."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Ozna\u010ditev polo\u017eaja kazalca s hitrim pobliskom."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Ko pridete do povezave ali kontrolnika, je samodejno izbran.   Pritisnite tipko <span class='key'>Enter</span>, \u010de \u017eelite klikniti povezavo ali gumb. </p> <p>   \u010ce izbran kontrolnik (npr. besedilno polje ali polje s seznamom) zajema   pu\u0161\u010di\u010dne tipke, pritisnite tipko <span class='key'>Esc</span>, nato pa   levo ali desno pu\u0161\u010di\u010dno tipko, \u010de \u017eelite nadaljevati z brskanjem s kazalko. </p> <p>   Pritisnete lahko tudi tipko <span class='key'>Tab</span>, da se premaknete na   naslednji kontrolnik, ki ga je mogo\u010de izbrati. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Ko kazalka sko\u010di dale\u010d:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Ukazi na tipkovnici"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Pritisnite tipko <span class='key'>Option</span>, \u010de se \u017eelite pomikati po besedah."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Pridr\u017eite tipko <span class='key'>Control</span>, \u010de se \u017eelite pomikati po besedah."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Po dokumentu se pomikajte s pu\u0161\u010di\u010dnimi tipkami. </p><p>Kliknite kjer koli, da premaknete kazalec na tisto lokacijo. </p> <p>   Pritisnite tipko <span class='key'>Shift</span> in pu\u0161\u010di\u010dne tipke, \u010de \u017eelite izbrati besedilo.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Brez povratnih informacij, samo poka\u017ei kazalec."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Ta raz\u0161iritev vam ponuja kazalec, ki ga je mogo\u010de premikati na spletni strani, kar omogo\u010da izbiranje besedila s tipkovnico."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Preskusite ga \u2013 na tej strani je brskanje s kazalko vedno omogo\u010deno."
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Vizualne povratne informacije"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Ko je omogo\u010deno brskanje s kazalko:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Izbolj\u0161evalnik barv"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Prilagodljiv barvni filter, uporabljen na spletnih straneh za izbolj\u0161anje barvne percepcije."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Barvna prilagoditev"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Stopnja"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "1. korak: izberite vrstico z najslab\u0161e vidnimi zvezdicami:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Rde\u010da"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Zelena"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Modra"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "\u017delite omogo\u010diti?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "2. korak: prilagajate drsnik, dokler ne bodo vidne vse zvezdice\n        v izbrani vrstici"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Nastavitev:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Ponastavi"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "V redu"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Prekli\u010di"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Nastavitev"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Pravilnik o animacijah"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Animacije se izvajajo samo enkrat ali so povsem onemogo\u010dene."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Pravilnik o animacijah:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Omogo\u010di vse animirane slike."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Omogo\u010di animirane slike, vendar samo enkrat."
+  },
+  "ANIMATION_NONE": {
+    "message": "Onemogo\u010di vse animacije slik."
+  }
+}

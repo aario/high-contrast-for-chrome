@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Preglednik alternativnog teksta slike"
+  },
+  "ALT_APPDESC": {
+    "message": "Zamijenite slike njihovim alternativnim tekstom."
+  },
+  "ALT_INFOBAR": {
+    "message": "Slike su zamijenjene alternativnim tekstom."
+  },
+  "ALT_UNDO": {
+    "message": "Poni\u0161ti"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Dugi opisi na kontekstnom izborniku"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Kliknite desnom tipkom bilo koju stavku s atributima \"longdesc\" ili \"aria-describedat\" da biste pristupili dugom opisu."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Otvori dugi opis na novoj kartici"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Dodajte granicu elementima s atributima aria-describedat ili longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Opcije"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Visoki kontrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Promjena ili preokretanje sheme boja radi bolje \u010ditljivosti web-stranica."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Uobi\u010dajeno"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Pove\u0107ani kontrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Sivi tonovi"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Preokrenuta boja"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Obrnuti sivi tonovi"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "\u017duto na crnom"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Postavi kao zadanu shemu"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Zaboravi prilagodbe web-lokacije"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Visoki kontrast omogu\u0107en je"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Visoki kontrast nije omogu\u0107en"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Omogu\u0107i"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Onemogu\u0107i"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Zadana shema boja:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Shema boja za $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Istakni polo\u017eaj kursora animacijom."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Pregledavajte tekst web-stranica pomo\u0107u tipki strelica."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Pregledavanje kursorom"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Opcije Pregledavanja kursorom"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Pritisnite <span class='key'>Alt</span> i <img src='increase_brightness.png'> (tipka za pove\u0107anje svjetline ili F7) da biste uklju\u010dili Pregledavanje kursorom. Pritisnite ponovo da je isklju\u010dite."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Pritisnite <span class='key'>F7</span> da biste uklju\u010dili Pregledavanje kursorom. Pritisnite ponovo za isklju\u010divanje."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Istakni polo\u017eaj kursora brzim bljeskanjem."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Veza ili kontrola automatski se fokusiraju kada za njima posegnete. Pritisnite <span class='key'>Enter</span> da biste kliknuli vezu ili gumb. </p> <p> Kada fokusirana kontrola (primjerice, tekstni okvir ili okvir s popisom) obuhva\u0107a tipke strelica, pritisnite <span class='key'>Esc</span>, a zatim lijevu ili desnu strelicu za nastavak Pregledavanja kursorom. </p> <p> Ina\u010de pritisnite <span class='key'>Tab</span> da biste se premjestili na sljede\u0107u kontrolu koja se mo\u017ee fokusirati. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Kada kursor sko\u010di s velike udaljenosti:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Tipkovne naredbe"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Dr\u017eite tipku <span class='key'>Option</span> da biste se pomicali po rije\u010dima."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Dr\u017eite tipku <span class='key'>Control</span> da biste se pomicali po rije\u010dima."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Koristite se tipkama strelica za pomicanje kroz dokument. </p><p>Kliknite bilo gdje da biste pomaknuli kursor na tu lokaciju. </p> <p>   Pritisnite <span class='key'>Shift</span> i strelice da biste odabrali tekst.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Bez povratnih informacija, samo prika\u017ei kursor."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "To pro\u0161irenje pru\u017ea pokretni kursor na web-stranici, tako da tekst mo\u017eete odabrati pomo\u0107u tipkovnice."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Isprobajte odmah \u2013 Pregledavanje kursorom uvijek je omogu\u0107eno na toj stranici!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Vizualne povratne informacije"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Kada je omogu\u0107eno Pregledavanje kursorom:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Prilagodljivi filtar boja koji se primjenjuje na web-stranice radi boljeg raspoznavanja boja."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Prilagodba boja"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Stupanj"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "1. korak: odaberite redak s najblje\u0111im zvjezdicama:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Crvena"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Zelena"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Plava"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Omogu\u0107iti?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "2. korak: pomi\u010dite kliza\u010d dok sve zvjezdice ne postanu vidljive u\n        odabranom retku"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Postavljanje:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Ponovno postavi"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "U redu"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Odustani"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Postavi"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Pravila o animacijama"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Pokre\u0107e animacije samo jedanput ili ih potpuno onemogu\u0107uje."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Pravila o animacijama:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Dopusti sve animirane slike."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Dopusti animirane slike, ali samo jednom."
+  },
+  "ANIMATION_NONE": {
+    "message": "Onemogu\u0107i sve animirane slike."
+  }
+}

@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "\u5716\u7247 Alt \u6587\u5b57\u6aa2\u8996\u5668"
+  },
+  "ALT_APPDESC": {
+    "message": "\u4f7f\u7528\u66ff\u4ee3\u6587\u5b57\u53d6\u4ee3\u5716\u7247\u3002"
+  },
+  "ALT_INFOBAR": {
+    "message": "\u5716\u7247\u5df2\u88ab alt \u6587\u5b57\u53d6\u4ee3\u3002"
+  },
+  "ALT_UNDO": {
+    "message": "\u5fa9\u539f"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "\u5167\u5bb9\u9078\u55ae\u4e2d\u7684\u8a73\u7d30\u8aaa\u660e"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "\u5c0d\u4efb\u4f55\u542b\u6709\u300clongdesc\u300d\u6216\u300caria-describedat\u300d\u5c6c\u6027\u7684\u5143\u7d20\u6309\u4e00\u4e0b\u6ed1\u9f20\u53f3\u9375\uff0c\u5373\u53ef\u67e5\u770b\u5176\u5b8c\u6574\u8aaa\u660e\u3002"
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "\u5728\u65b0\u5206\u9801\u4e2d\u958b\u555f\u8a73\u7d30\u8aaa\u660e"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "\u70ba\u542b\u6709 aria-describedat \u6216 longdesc \u5c6c\u6027\u7684\u5143\u7d20\u52a0\u4e0a\u6846\u7dda\u3002"
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "\u9078\u9805"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "\u9ad8\u5c0d\u6bd4"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "\u66f4\u6539\u6216\u53cd\u8f49\u8272\u5f69\u914d\u7f6e\uff0c\u8b93\u7db2\u9801\u66f4\u5bb9\u6613\u95b1\u8b80\u3002"
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "\u4e00\u822c"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "\u589e\u52a0\u5c0d\u6bd4"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "\u7070\u968e"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "\u53cd\u8f49\u8272\u5f69"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "\u53cd\u8f49\u7070\u968e"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "\u9ed1\u5e95\u9ec3\u5b57"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "\u8a2d\u70ba\u9810\u8a2d\u914d\u7f6e"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "\u6e05\u9664\u7db2\u7ad9\u81ea\u8a02\u8a2d\u5b9a"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "\u9ad8\u5c0d\u6bd4\u529f\u80fd\u5df2\u555f\u7528"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "\u9ad8\u5c0d\u6bd4\u529f\u80fd\u5df2\u505c\u7528"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "\u555f\u7528"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "\u505c\u7528"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "\u9810\u8a2d\u8272\u5f69\u914d\u7f6e\uff1a"
+  },
+  "HIGHCONTRAST_": {
+    "message": "$1$ \u7684\u8272\u5f69\u914d\u7f6e\uff1a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "\u4f7f\u7528\u52d5\u756b\u6a19\u660e\u6e38\u6a19\u4f4d\u7f6e\u3002"
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "\u4f7f\u7528\u65b9\u5411\u9375\u700f\u89bd\u7db2\u9801\u6587\u5b57\u3002"
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "\u9375\u76e4\u700f\u89bd"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "\u9375\u76e4\u700f\u89bd\u9078\u9805"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "\u6309\u4e0b <span class='key'>Alt</span> \u9375 + <img src='increase_brightness.png'> (\u8abf\u9ad8\u4eae\u5ea6\u9375\u6216 F7 \u9375) \u53ef\u958b\u555f\u9375\u76e4\u700f\u89bd\u529f\u80fd\uff0c\u518d\u6309\u4e00\u4e0b\u5247\u53ef\u95dc\u9589\u3002"
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "\u6309\u4e0b <span class='key'>F7</span> \u9375\u53ef\u958b\u555f\u9375\u76e4\u700f\u89bd\u529f\u80fd\uff0c\u518d\u6309\u4e00\u4e0b\u5247\u53ef\u95dc\u9589\u3002"
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "\u4f7f\u7528\u5feb\u9583\u6307\u793a\u6a19\u660e\u6e38\u6a19\u4f4d\u7f6e\u3002"
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>\u7576\u60a8\u700f\u89bd\u5230\u9023\u7d50\u6216\u63a7\u5236\u9805\u6642\uff0c\u7126\u9ede\u6703\u81ea\u52d5\u79fb\u81f3\u9023\u7d50\u6216\u63a7\u5236\u9805\u3002   \u6309\u4e0b <span class='key'>Enter</span> \u9375\u53ef\u9ede\u9078\u9023\u7d50\u6216\u6309\u9215\u3002</p> <p>   \u7576\u805a\u7126\u7684\u63a7\u5236\u9805 (\u4f8b\u5982\u6587\u5b57\u65b9\u584a\u6216\u6e05\u55ae\u65b9\u584a) \u5075\u6e2c\u5230\u65b9\u5411\u9375\u64cd\u4f5c\u6642\uff0c\u6309\u4e0b <span class='key'>Esc</span> \u9375\u548c\u5411\u5de6\u6216\u5411\u53f3\u9375\u53ef\u7e7c\u7e8c\u4f7f\u7528\u9375\u76e4\u700f\u89bd\u529f\u80fd\u3002</p> <p>   \u6216\u8005\uff0c\u6309\u4e0b <span class='key'>Tab</span> \u9375\u53ef\u79fb\u81f3\u4e0b\u4e00\u500b\u80fd\u805a\u7126\u7684\u63a7\u5236\u9805\u3002</p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "\u7576\u63d2\u5165\u9ede\u8df3\u8e8d\u8ddd\u96e2\u6975\u5927\u6642\uff1a"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "\u9375\u76e4\u6307\u4ee4"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "\u6309\u4f4f <span class='key'>Option</span> \u9375\u53ef\u9010\u5b57\u79fb\u52d5\u3002"
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "\u6309\u4f4f <span class='key'>Control</span> \u9375\u53ef\u9010\u5b57\u79fb\u52d5\u3002"
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>\u4f7f\u7528\u65b9\u5411\u9375\u53ef\u5728\u6574\u4efd\u6587\u4ef6\u4e2d\u4f86\u56de\u79fb\u52d5\u3002</p><p>\u6309\u4e00\u4e0b\u4efb\u4f55\u4f4d\u7f6e\uff0c\u6e38\u6a19\u5373\u6703\u79fb\u81f3\u9ede\u9078\u7684\u4f4d\u7f6e\u3002</p> <p>   \u6309\u4e0b <span class='key'>Shift</span> \u9375 + \u65b9\u5411\u9375\u53ef\u9078\u53d6\u6587\u5b57\u3002</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "\u7121\u56de\u994b\uff0c\u50c5\u986f\u793a\u6e38\u6a19\u3002"
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "\u555f\u7528\u9019\u9805\u64f4\u5145\u529f\u80fd\u5f8c\uff0c\u7db2\u9801\u4e0a\u6703\u986f\u793a\u53ef\u79fb\u52d5\u7684\u6e38\u6a19\uff0c\u8b93\u60a8\u4f7f\u7528\u9375\u76e4\u9078\u53d6\u6587\u5b57\u3002"
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "\u9019\u500b\u7db2\u9801\u6703\u4e00\u5f8b\u555f\u7528\u9375\u76e4\u700f\u89bd\u529f\u80fd\uff0c\u6b61\u8fce\u7acb\u5373\u9ad4\u9a57\uff01"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "\u8996\u89ba\u56de\u994b"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "\u555f\u7528\u9375\u76e4\u700f\u89bd\u529f\u80fd\u6642\uff1a"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "\u53ef\u4f9b\u81ea\u8a02\u7684\u8272\u5f69\u6ffe\u93e1\uff0c\u5957\u7528\u5230\u7db2\u9801\u5f8c\u53ef\u5f37\u5316\u8272\u5f69\u611f\u77e5\u5ea6\u3002"
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "\u8272\u5f69\u8abf\u6574"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "\u5ea6\u6578"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "\u6b65\u9a5f 1 - \u9078\u53d6\u661f\u661f\u4eae\u5ea6\u6700\u5fae\u5f31\u7684\u4e00\u5217\uff1a"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "\u7d05\u8272"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "\u7da0\u8272"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "\u85cd\u8272"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "\u555f\u7528\uff1f"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "\u6b65\u9a5f 2 - \u8abf\u6574\u6ed1\u687f\uff0c\u76f4\u5230\u5728\u6240\u9078\u5217\u4e2d\u770b\u898b\n        \u6240\u6709\u661f\u661f\u70ba\u6b62"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "\u8a2d\u5b9a\uff1a"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "\u91cd\u8a2d"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "\u78ba\u5b9a"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "\u53d6\u6d88"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "\u8a2d\u5b9a"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "\u52d5\u756b\u653f\u7b56"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "\u57f7\u884c\u52d5\u756b (\u50c5\u9650\u4e00\u6b21) \u6216\u5b8c\u5168\u505c\u7528\u52d5\u756b\u3002"
+  },
+  "ANIMATION_POLICY": {
+    "message": "\u52d5\u756b\u653f\u7b56\uff1a"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "\u5141\u8a31\u6240\u6709\u52d5\u756b\u5716\u7247\u3002"
+  },
+  "ANIMATION_ONCE": {
+    "message": "\u5141\u8a31\u52d5\u756b\u5716\u7247 (\u50c5\u9650\u4e00\u6b21)\u3002"
+  },
+  "ANIMATION_NONE": {
+    "message": "\u505c\u7528\u6240\u6709\u5716\u7247\u52d5\u756b\u3002"
+  }
+}

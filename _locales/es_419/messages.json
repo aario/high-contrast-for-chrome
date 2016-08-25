@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Visualizador de texto \"Alt\" de im\u00e1genes"
+  },
+  "ALT_APPDESC": {
+    "message": "Reemplazar las im\u00e1genes por su texto alternativo"
+  },
+  "ALT_INFOBAR": {
+    "message": "Las im\u00e1genes se reemplazaron por su texto \"alt\"."
+  },
+  "ALT_UNDO": {
+    "message": "Deshacer"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Descripciones largas en el men\u00fa contextual"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Haz clic con el bot\u00f3n secundario en cualquier elemento con un atributo \"longdesc\" o \"aria-describedat\" para acceder a una descripci\u00f3n larga."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Abrir descripci\u00f3n larga en nueva pesta\u00f1a"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Agregar l\u00edmite a elementos con atributos aria-describedat o longdesc"
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Opciones"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Alto contraste"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Cambia o invierte la combinaci\u00f3n de colores para que sea m\u00e1s f\u00e1cil leer las p\u00e1ginas web."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normal"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Mayor contraste"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Escala de grises"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Color invertido"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Escala de grises invertida"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Amarillo sobre negro"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Establecer como combinaci\u00f3n predeterminada"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Olvidar personalizaciones del sitio"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "El alto contraste est\u00e1 habilitado."
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "El alto contraste est\u00e1 inhabilitado."
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Habilitar"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Inhabilitar"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Combinaci\u00f3n de colores predeterminada:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Combinaci\u00f3n de colores para $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Resaltar la posici\u00f3n del cursor con una animaci\u00f3n"
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Explorar el texto o las p\u00e1ginas web con las teclas de flecha"
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Navegaci\u00f3n por cursor de texto"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Opciones de navegaci\u00f3n por cursor de texto"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Presiona <span class='key'>Alt</span> + <img src='increase_brightness.png'> (la tecla de Aumentar brillo o F7) para habilitar la navegaci\u00f3n por cursor de texto. Vuelve a presionar la misma tecla para inhabilitarla."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Presiona <span class='key'>F7</span> para habilitar la navegaci\u00f3n por cursor de texto. Presiona la misma tecla nuevamente para desactivarla."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Resaltar la posici\u00f3n del cursor con un parpadeo r\u00e1pido"
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Cuando llegues a un v\u00ednculo o control, se activar\u00e1 autom\u00e1ticamente.   Presiona <span class='key'>Entrar</span> para hacer clic en un v\u00ednculo o un bot\u00f3n. </p> <p>   Cuando un control activado (como un cuadro de texto o un cuadro de lista) reconozca teclas de flecha, presiona <span class='key'>Esc</span> seguido por la flecha hacia la izquierda o la derecha para continuar con la navegaci\u00f3n por cursor de texto. </p> <p>   Tambi\u00e9n puedes presionar la tecla <span class='key'>Tab</span> para desplazarte al pr\u00f3ximo control activable. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Cuando el cursor de texto avanza a una parte alejada:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Comandos de teclado"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Mant\u00e9n presionado <span class='key'>Opci\u00f3n</span> para moverte por palabra."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Mant\u00e9n presionado <span class='key'>Control</span> para moverte por palabra."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Usa las teclas de flecha para desplazarte por el documento. </p><p>Haz clic en cualquier lugar para mover el cursor a esa ubicaci\u00f3n. </p> <p>   Presiona <span class='key'>Shift</span> + las flechas para seleccionar el texto.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Sin comentarios, solo mostrar el cursor"
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Esta extensi\u00f3n ofrece un cursor desplazable en la p\u00e1gina web que te permite seleccionar texto con el teclado."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Pru\u00e9balo ahora. La navegaci\u00f3n por cursor de texto siempre est\u00e1 habilitada en esta p\u00e1gina."
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Comentarios visuales"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Cuando la navegaci\u00f3n por cursor de texto est\u00e1 habilitada:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Un filtro de color personalizable aplicado a las p\u00e1ginas web para mejorar la percepci\u00f3n del color"
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Ajuste del color"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Grado"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Paso 1. Selecciona la fila con las estrellas m\u00e1s tenues:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Rojo"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Verde"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Azul"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "\u00bfHabilitar?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Paso 2. Ajusta el control deslizante hasta que todas las estrellas sean visibles en la\n        fila seleccionada."
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Configuraci\u00f3n:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Restablecer"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "Aceptar"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Cancelar"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Configuraci\u00f3n"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Pol\u00edtica de animaciones"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Ejecuta animaciones solo una vez o las inhabilita por completo."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Pol\u00edtica de animaciones:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Permitir todas las im\u00e1genes animadas"
+  },
+  "ANIMATION_ONCE": {
+    "message": "Permitir im\u00e1genes animadas solo una vez"
+  },
+  "ANIMATION_NONE": {
+    "message": "Inhabilitar toda la animaci\u00f3n de im\u00e1genes"
+  }
+}

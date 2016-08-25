@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Visionneuse du texte de substitution des images"
+  },
+  "ALT_APPDESC": {
+    "message": "Remplacez les images par leur texte de substitution."
+  },
+  "ALT_INFOBAR": {
+    "message": "Les images ont \u00e9t\u00e9 remplac\u00e9es par leur texte de substitution."
+  },
+  "ALT_UNDO": {
+    "message": "Annuler"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Descriptions longues dans le menu contextuel"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Cliquez avec le bouton droit de la souris sur un \u00e9l\u00e9ment qui pr\u00e9sente un attribut \"longdesc\" ou \"aria-describedat\" pour acc\u00e9der \u00e0 sa description longue."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Ouvrir la description longue dans un nouvel onglet"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Ajouter une bordure \u00e0 des \u00e9l\u00e9ments avec des attributs aria-describedat ou longdesc"
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Options"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Contraste \u00e9lev\u00e9"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Modifier ou inverser la palette de couleurs pour faciliter la lecture des pages Web"
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Standard"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Contraste accru"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Niveaux de gris"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Couleurs invers\u00e9es"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Niveaux de gris invers\u00e9s"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Jaune sur noir"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "D\u00e9finir comme mod\u00e8le par d\u00e9faut"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Oublier les pr\u00e9f\u00e9rences du site"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Le contraste \u00e9lev\u00e9 est activ\u00e9."
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Le contraste \u00e9lev\u00e9 est d\u00e9sactiv\u00e9."
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Activer"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "D\u00e9sactiver"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Palette de couleurs par d\u00e9faut\u00a0:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Palette de couleurs pour $1$\u00a0:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Mettre la position du curseur en \u00e9vidence \u00e0 l'aide d'une animation"
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Parcourir le texte des pages Web \u00e0 l'aide des fl\u00e8ches"
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Navigation au clavier"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Options de navigation au clavier"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Appuyez sur <span class='key'>Alt</span>\u00a0+\u00a0<img src='increase_brightness.png'> (la touche Augmenter la luminosit\u00e9 ou F7) pour activer la navigation au clavier. Pour la d\u00e9sactiver, appuyez \u00e0 nouveau sur la touche."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Appuyez sur <span class='key'>F7</span> pour activer la Navigation au clavier. Appuyez \u00e0 nouveau sur la touche pour la d\u00e9sactiver."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Mettre la position du curseur en \u00e9vidence avec un bref flash"
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Lorsque vous atteignez un lien ou une commande, il est automatiquement mis en \u00e9vidence. Appuyez sur <span class='key'>Entr\u00e9e</span> pour cliquer sur un lien ou sur un bouton.</p><p>Lorsqu'une commande mise en \u00e9vidence (par exemple, une zone de texte ou une liste) comprend des fl\u00e8ches, appuyez sur <span class='key'>\u00c9chap</span>, puis sur la fl\u00e8che gauche ou droite pour poursuivre avec la Navigation au clavier.</p><p>Vous pouvez \u00e9galement appuyer sur <span class='key'>Tabulation</span> pour aller \u00e0 la prochaine commande mise en \u00e9vidence. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Lorsque le curseur parcourt une grande distance\u00a0:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Commandes clavier"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Maintenez la touche <span class='key'>Option</span> enfonc\u00e9e pour vous d\u00e9placer d'un mot \u00e0 l'autre."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Maintenez la touche <span class='key'>Ctrl</span> enfonc\u00e9e pour vous d\u00e9placer d'un mot \u00e0 l'autre."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Utilisez les fl\u00e8ches pour vous d\u00e9placer dans le document.</p><p>Cliquez pour d\u00e9placer le curseur o\u00f9 vous le souhaitez.</p><p>Appuyez sur <span class='key'>Maj</span>\u00a0+\u00a0les fl\u00e8ches pour s\u00e9lectionner du texte.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Aucun retour, n'afficher que le curseur"
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Cette extension ajoute un curseur sur la page Web que vous pouvez d\u00e9placer pour s\u00e9lectionner du texte \u00e0 l'aide du clavier."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Essayez d\u00e8s maintenant\u00a0: la navigation au clavier est toujours activ\u00e9e sur cette page."
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Retour visuel"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Lorsque la navigation au clavier est activ\u00e9e\u00a0:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color\u00a0Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Filtre de couleur personnalisable appliqu\u00e9 aux pages\u00a0Web pour am\u00e9liorer la perception des couleurs"
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "R\u00e9glage de la couleur"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Degr\u00e9"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "\u00c9tape\u00a01\u00a0: s\u00e9lectionner la ligne avec les \u00e9toiles les moins visibles"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Rouge"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Vert"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Bleu"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Activer\u00a0?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "\u00c9tape\u00a02\u00a0: d\u00e9placer le curseur jusqu'\u00e0 ce que toutes les \u00e9toiles deviennent visibles sur la ligne s\u00e9lectionn\u00e9e"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Configurer\u00a0:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "R\u00e9initialiser"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Annuler"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Configurer"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Gestion des animations"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Permet de ne lancer les animations qu'une seule fois ou de les d\u00e9sactiver compl\u00e8tement."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Gestion des animations\u00a0:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Autoriser toutes les images anim\u00e9es"
+  },
+  "ANIMATION_ONCE": {
+    "message": "Autoriser les images anim\u00e9es, mais une seule fois"
+  },
+  "ANIMATION_NONE": {
+    "message": "D\u00e9sactiver l'animation au niveau de toutes les images"
+  }
+}

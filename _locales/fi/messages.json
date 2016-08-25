@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Kuvien alt-tekstin katselu"
+  },
+  "ALT_APPDESC": {
+    "message": "Korvaa kuvat niiden alt-tekstill\u00e4."
+  },
+  "ALT_INFOBAR": {
+    "message": "Kuvat on korvattu niiden vaihtoehtoisella tekstill\u00e4."
+  },
+  "ALT_UNDO": {
+    "message": "Kumoa"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Pitk\u00e4t kuvaukset kontekstivalikossa"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Klikkaa hiiren kakkospainikkeella longdesc- tai aria-describedat-attribuutin sis\u00e4lt\u00e4vi\u00e4 kohteita, jos haluat n\u00e4hd\u00e4 niiden pitk\u00e4n kuvauksen."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Avaa pitk\u00e4 kuvaus uudella v\u00e4lilehdell\u00e4"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Lis\u00e4\u00e4 reunus elementteihin, joissa on aria-describedat- tai longdesc-attribuutteja."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Asetukset"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Korkea kontrasti"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Paranna verkkosivujen luettavuutta vaihtamalla tai k\u00e4\u00e4nt\u00e4m\u00e4ll\u00e4 v\u00e4rimalli."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normaali"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Lis\u00e4kontrasti"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Harmaas\u00e4vy"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "K\u00e4\u00e4nteiset v\u00e4rit"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "K\u00e4\u00e4nteinen harmaas\u00e4vy"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Keltainen mustalla pohjalla"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Aseta oletusteemaksi"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Unohda sivustoon liittyv\u00e4t muokkaukset"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Korkea kontrasti on k\u00e4yt\u00f6ss\u00e4"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Korkea kontrasti on pois k\u00e4yt\u00f6st\u00e4"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Ota k\u00e4ytt\u00f6\u00f6n"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Poista k\u00e4yt\u00f6st\u00e4"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Oletusv\u00e4rimalli:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Sivuston $1$ v\u00e4riteema:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Korosta osoittimen paikka animaatiolla."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Selaa verkkosivujen teksti\u00e4 nuolin\u00e4pp\u00e4imill\u00e4."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "N\u00e4pp\u00e4imist\u00f6selaaminen"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "N\u00e4pp\u00e4imist\u00f6selaamisen asetukset"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Ota N\u00e4pp\u00e4imist\u00f6selaaminen k\u00e4ytt\u00f6\u00f6n painamalla <span class='key'>alt</span> + <img src='increase_brightness.png'> (kirkkauden lis\u00e4\u00e4misn\u00e4pp\u00e4in tai F7). Poista ominaisuus k\u00e4yt\u00f6st\u00e4 painamalla n\u00e4pp\u00e4imi\u00e4 uudelleen."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Ota n\u00e4pp\u00e4imist\u00f6selaaminen k\u00e4ytt\u00f6\u00f6n painamalla <span class='key'>F7</span>. Poista toiminto k\u00e4yt\u00f6st\u00e4 painamalla n\u00e4pp\u00e4int\u00e4 uudelleen."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Korosta osoittimen paikka nopealla v\u00e4l\u00e4hdyksell\u00e4."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>L\u00f6yt\u00e4m\u00e4si linkki tai k\u00e4ytett\u00e4v\u00e4 kohde keskitet\u00e4\u00e4n automaattisesti. Klikkaa linkki\u00e4 tai painiketta painamalla <span class='key'>enter</span>. </p> <p>  Kun keskitetty kohde (kuten tekstikentt\u00e4 tai luettelokentt\u00e4) kuuntelee nuolin\u00e4pp\u00e4imien painalluksia, jatka N\u00e4pp\u00e4imist\u00f6selaamisen k\u00e4ytt\u00f6\u00e4 painamalla <span class='key'>esc</span> ja sen j\u00e4lkeen vasenta tai oikeaa nuolta. </p> <p>   Voit my\u00f6s siirty\u00e4 seuraavaan keskitett\u00e4v\u00e4\u00e4n kohteeseen painamalla <span class='key'>sarkainta</span>. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Kun osoitin siirtyy pitk\u00e4n v\u00e4limatkan:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "N\u00e4pp\u00e4imist\u00f6komennot"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Siirry sanojen mukaan painamalla <span class='key'>option</span>-n\u00e4pp\u00e4int\u00e4 pitk\u00e4\u00e4n."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Liiku sanojen mukaan painamalla <span class='key'>control</span>-n\u00e4pp\u00e4int\u00e4 pitk\u00e4\u00e4n."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Liiku dokumentissa nuolin\u00e4pp\u00e4imill\u00e4. </p><p>Siirr\u00e4 osoitin haluamaasi kohtaan klikkaamalla. </p> <p>   Valitse teksti\u00e4 painamalla <span class='key'>shift</span> + nuolin\u00e4pp\u00e4imi\u00e4.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Ei palautetta, n\u00e4yt\u00e4 osoitin."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "T\u00e4m\u00e4 laajennus lis\u00e4\u00e4 verkkosivulle liikuteltavan osoittimen, jonka avulla voit valita teksti\u00e4 n\u00e4pp\u00e4imist\u00f6ll\u00e4."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Kokeile heti \u2013 N\u00e4pp\u00e4imist\u00f6selaaminen on aina k\u00e4yt\u00f6ss\u00e4 t\u00e4ll\u00e4 sivulla!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Visuaalinen palaute"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Kun N\u00e4pp\u00e4imist\u00f6selaaminen on k\u00e4yt\u00f6ss\u00e4:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Muokattavissa oleva v\u00e4risuodatin, joka helpottaa v\u00e4rien n\u00e4kemist\u00e4 verkkosivuilla."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "V\u00e4rien s\u00e4\u00e4t\u00f6"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Aste"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Vaihe 1: valitse rivi, jolla on haaleimmat t\u00e4hdet:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Punainen"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Vihre\u00e4"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Sininen"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Otetaanko k\u00e4ytt\u00f6\u00f6n?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Vaihe 2: liikuta liukus\u00e4\u00e4dint\u00e4, kunnes kaikki t\u00e4hdet ovat n\u00e4kyviss\u00e4\n        valitulla rivill\u00e4."
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "M\u00e4\u00e4ritys:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Tyhjenn\u00e4"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Peruuta"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "M\u00e4\u00e4rit\u00e4"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Animaatiok\u00e4yt\u00e4nt\u00f6"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "N\u00e4yt\u00e4 animaatiot vain kerran, tai poista animaatiot kokonaan k\u00e4yt\u00f6st\u00e4."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Animaatiok\u00e4yt\u00e4nt\u00f6:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Salli kaikki animoidut kuvat."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Salli kuvien animointi, mutta vain kerran."
+  },
+  "ANIMATION_NONE": {
+    "message": "Poista kaikki kuva-animaatiot k\u00e4yt\u00f6st\u00e4."
+  }
+}

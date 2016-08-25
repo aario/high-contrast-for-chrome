@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Kitazamaji cha Maandishi ya Alt ya Picha"
+  },
+  "ALT_APPDESC": {
+    "message": "Badilisha picha kwa maandishi yao ya alt."
+  },
+  "ALT_INFOBAR": {
+    "message": "Picha zimebadilishwa kwa maandishi yao ya alt."
+  },
+  "ALT_UNDO": {
+    "message": "Tendua"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Maelezo Marefu katika Menyu ya Muktadha"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Bofya kulia kwenye kitu chochote kilicho na kipengele cha \"longdesc\" au \"aria-describedat\" ili kufikia maelezo yake marefu."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Fungua Maelezo Marefu Katika Kichupo Kipya"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Ongeza mpaka kwenye vipengee vilivyo na vipengele vya aria-describedat au longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Chaguo"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Utofautishaji wa Juu"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Badilisha au geuza mpango wa rangi ili kurahisisha kusoma kurasa za wavuti."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Ya kawaida"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Utofautishaji ulioongezeka"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Mtindo wa rangi nyeupe na nyeusi"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Rangi Iliyogeuzwa"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Mtindo wa rangi nyeupe na nyeusi uliogeuzwa"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Njano kwenye Nyeusi"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Weka uwe mpango chaguo-msingi"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Sahau ugeuzaji wa tovuti ili zikufae"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Utofautishaji wa Juu Umewashwa"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Utofautishaji wa Juu Umezimwa"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Washa"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Zima"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Mpango wa rangi ya asili:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Mpango wa rangi wa $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Angazia kilipo kielekezi kwa uhuishaji."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Vinjari maandishi ya kurasa za wavuti ukitumia vitufe vya vishale."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Kuvinjari kwa Kareti"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Chaguo za Kuvinjari za Kareti"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Bonyeza <span class='key'>Alt</span> + <img src='increase_brightness.png'> (kitufe cha Ongeza Mwangaza, au F7) ili kuwasha Kuvinjari kwa Kareti. Ibonyeze tena ili kukuzima."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Bonyeza <span class='key'>F7</span> ili kuwasha Kuvinjari kwa Kareti. Kibonyeze tena ili kuizima."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Angazia kilipo kielekezi kwa kumulika kwa kasi."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Unapofikia kiungo au kidhibiti, kinaangaziwa kiotomatiki.  Bonyeza <span class='key'>Enter</span> ili kubofya kiungo au kitufe. </p> <p>   Kidhibiti kilichoangaziwa (kama vile kikasha cha maandishi au kikasha cha orodha) kinapopiga picha vitufe vya vishale, bonyeza <span class='key'>Esc</span> ukifuatisha kishale cha kushoto au kulia ili kuendelea Kuvinjari kwa Kareti. </p> <p>   Njia nyingine, bonyeza <span class='key'>Kichupo</span> ili kuhamisha kidhibiti kinachofuata kinachoweza kuangaziwa. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Kareti inaporuka umbali mkubwa:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Amri za Kibodi"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Shikilia chini <span class='key'>Chaguo</span> ili kusogea kwa maneno."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Shikilia chini <span class='key'>Dhibiti</span> ili kusogea kwa maneno."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Tumia vitufe vya kishale kusogea kwenye hati nzima. </p><p>Bofya popote ili kusogeza kielekezi hadi mahali hapo. </p> <p>   Bonyeza <span class='key'>Shift</span> + vishale ili kuchagua maandishi.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Hakuna maoni, onyesha tu kielekezi."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Kiendelezi hiki kinakupa kielekezi cha kusogeza katika ukurasa wa wavuti, na kukuruhusu kuchagua maandishi kwa kibodi."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Jaribu sasa - Kuvinjari kwa Kareti huwa kumewashwa kwenye ukurasa huu wakati wowote!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Majibu ya Kuonekana"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Kuvinjari kwa Kareti kunapowashwa:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Kiboreshaji cha Rangi"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Kichujio cha rangi kinachoweza kugeuzwa ili kifae kinachotumiwa kwenye kurasa za wavuti ili kuboresha mwonekano wa rangi."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Marekebisho ya rangi"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Kiwango"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Hatua ya 1: Chagua safu mlalo yenye nyota zilizofifia zaidi:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Nyekundu"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Kijani"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Samawati"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Ungependa kuwasha?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Hatua ya 2: Rekebisha kitelezi hadi nyota zote zionekane katika safu mlalo iliyochaguliwa"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Usanidi:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Weka upya"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "Sawa"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Ghairi"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Usanidi"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Sera ya Uhuishaji"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Tekeleza uhuishaji mara moja pekee, au zima uhuishaji kabisa."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Sera ya Uhuishaji:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Ruhusu picha zote zilizouhuishwa."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Ruhusu picha zilizouhuishwa, lakini mara moja pekee."
+  },
+  "ANIMATION_NONE": {
+    "message": "Zima uhuishaji wa picha zote."
+  }
+}

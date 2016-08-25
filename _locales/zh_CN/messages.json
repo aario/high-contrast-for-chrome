@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "\u56fe\u7247\u66ff\u4ee3\u6587\u5b57\u67e5\u770b\u5668"
+  },
+  "ALT_APPDESC": {
+    "message": "\u5c06\u56fe\u7247\u66ff\u6362\u6210\u5bf9\u5e94\u7684\u66ff\u4ee3\u6587\u5b57\u3002"
+  },
+  "ALT_INFOBAR": {
+    "message": "\u56fe\u7247\u5df2\u88ab\u5176 alt \u6587\u5b57\u53d6\u4ee3\u3002"
+  },
+  "ALT_UNDO": {
+    "message": "\u64a4\u6d88"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "\u5728\u4e0a\u4e0b\u6587\u83dc\u5355\u4e2d\u663e\u793a\u8be6\u7ec6\u8bf4\u660e\u9009\u9879"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "\u53f3\u952e\u70b9\u51fb\u4efb\u4f55\u5177\u6709\u201clongdesc\u201d\u6216\u201caria-describedat\u201d\u5c5e\u6027\u7684\u5185\u5bb9\uff0c\u53ef\u67e5\u770b\u5176\u8be6\u7ec6\u8bf4\u660e\u3002"
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "\u5728\u65b0\u6807\u7b7e\u9875\u4e2d\u6253\u5f00\u8be6\u7ec6\u8bf4\u660e"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "\u4e3a\u5177\u6709\u201caria-describedat\u201d\u6216\u201clongdesc\u201d\u5c5e\u6027\u7684\u5143\u7d20\u6dfb\u52a0\u8fb9\u6846\u3002"
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "\u9009\u9879"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "\u9ad8\u5bf9\u6bd4\u5ea6\u6a21\u5f0f"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "\u66f4\u6539\u6216\u53cd\u8f6c\u989c\u8272\u65b9\u6848\uff0c\u4f7f\u7f51\u9875\u66f4\u6613\u4e8e\u9605\u8bfb\u3002"
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "\u6b63\u5e38"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "\u589e\u52a0\u5bf9\u6bd4\u5ea6"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "\u7070\u5ea6"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "\u53cd\u8f6c\u989c\u8272"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "\u53cd\u8f6c\u7070\u5ea6"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "\u9ed1\u5e95\u9ec4\u5b57"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "\u8bbe\u4e3a\u9ed8\u8ba4\u65b9\u6848"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "\u53d6\u6d88\u7f51\u7ad9\u81ea\u5b9a\u4e49\u8bbe\u7f6e"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "\u9ad8\u5bf9\u6bd4\u5ea6\u6a21\u5f0f\u5df2\u542f\u7528"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "\u9ad8\u5bf9\u6bd4\u5ea6\u6a21\u5f0f\u5df2\u505c\u7528"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "\u542f\u7528"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "\u505c\u7528"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "\u9ed8\u8ba4\u989c\u8272\u65b9\u6848\uff1a"
+  },
+  "HIGHCONTRAST_": {
+    "message": "$1$ \u7684\u989c\u8272\u65b9\u6848\uff1a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "\u4f7f\u7528\u52a8\u753b\u7a81\u51fa\u663e\u793a\u5149\u6807\u4f4d\u7f6e\u3002"
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "\u4f7f\u7528\u7bad\u5934\u952e\u6d4f\u89c8\u7f51\u9875\u4e2d\u7684\u6587\u5b57\u3002"
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "\u5149\u6807\u6d4f\u89c8\u6a21\u5f0f"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "\u5149\u6807\u6d4f\u89c8\u6a21\u5f0f\u76f8\u5173\u9009\u9879"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "\u6309 <span class='key'>Alt</span> + <img src='increase_brightness.png'>\uff08\u63d0\u9ad8\u4eae\u5ea6\u952e\u6216 F7 \u952e\uff09\u53ef\u542f\u7528\u5149\u6807\u6d4f\u89c8\u6a21\u5f0f\u3002\u518d\u6309\u4e00\u6b21\u53ef\u5c06\u5176\u505c\u7528\u3002"
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "\u6309 <span class='key'>F7</span> \u53ef\u542f\u7528\u5149\u6807\u6d4f\u89c8\u6a21\u5f0f\u3002\u518d\u6309\u4e00\u6b21\u53ef\u5c06\u5176\u505c\u7528\u3002"
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "\u4f7f\u7528\u5feb\u901f\u95ea\u70c1\u7a81\u51fa\u663e\u793a\u5149\u6807\u4f4d\u7f6e\u3002"
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>\u5f53\u60a8\u9047\u5230\u94fe\u63a5\u6216\u63a7\u4ef6\u65f6\uff0c\u5b83\u4eec\u4f1a\u81ea\u52a8\u6210\u4e3a\u7126\u70b9\u9879\u3002\u6309 <span class='key'>Enter</span> \u952e\u53ef\u70b9\u51fb\u94fe\u63a5\u6216\u6309\u94ae\u3002</p> <p>\u4f7f\u7528\u7bad\u5934\u952e\u79fb\u52a8\u5149\u6807\u65f6\uff0c\u5982\u679c\u7126\u70b9\u79fb\u5230\u4e86\u67d0\u4e2a\u63a7\u4ef6\uff08\u4f8b\u5982\u6587\u672c\u6846\u6216\u5217\u8868\u6846\uff09\u4e0a\uff0c\u60a8\u53ef\u4ee5\u5148\u6309 <span class='key'>Esc</span> \u952e\uff0c\u7136\u540e\u6309\u5411\u5de6\u6216\u5411\u53f3\u7bad\u5934\uff0c\u4ee5\u4fbf\u7ee7\u7eed\u4f7f\u7528\u5149\u6807\u6d4f\u89c8\u6a21\u5f0f\u3002</p> <p>\u6216\u8005\uff0c\u60a8\u4e5f\u53ef\u4ee5\u6309 <span class='key'>Tab</span> \u952e\uff0c\u4ee5\u4fbf\u79fb\u81f3\u4e0b\u4e00\u4e2a\u53ef\u6210\u4e3a\u7126\u70b9\u7684\u63a7\u4ef6\u3002</p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "\u5f53\u5149\u6807\u8df3\u8f6c\u8f83\u957f\u8ddd\u79bb\u65f6\uff1a"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "\u952e\u76d8\u547d\u4ee4"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "\u6309\u4f4f <span class='key'>Option</span> \u952e\u53ef\u9010\u5b57\u79fb\u52a8\u3002"
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "\u6309\u4f4f <span class='key'>Control</span> \u952e\u53ef\u9010\u5b57\u79fb\u52a8\u3002"
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>\u4f7f\u7528\u7bad\u5934\u952e\u5728\u6587\u6863\u4e2d\u79fb\u52a8\u3002</p><p>\u70b9\u51fb\u4efb\u610f\u4f4d\u7f6e\u5373\u53ef\u5c06\u5149\u6807\u79fb\u81f3\u76f8\u5e94\u4f4d\u7f6e\u3002</p> <p>\u6309 <span class='key'>Shift</span> + \u7bad\u5934\u952e\u53ef\u9009\u62e9\u6587\u5b57\u3002</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "\u65e0\u53cd\u9988\uff0c\u4ec5\u663e\u793a\u5149\u6807\u3002"
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "\u542f\u7528\u6b64\u6269\u5c55\u7a0b\u5e8f\u540e\uff0c\u7f51\u9875\u4e2d\u4f1a\u663e\u793a\u4e00\u4e2a\u53ef\u79fb\u52a8\u7684\u5149\u6807\uff0c\u8ba9\u60a8\u80fd\u591f\u901a\u8fc7\u952e\u76d8\u9009\u62e9\u6587\u5b57\u3002"
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "\u60a8\u53ef\u4ee5\u7acb\u5373\u8bd5\u7528 - \u5149\u6807\u6d4f\u89c8\u6a21\u5f0f\u5728\u6b64\u9875\u9762\u4e0a\u59cb\u7ec8\u5904\u4e8e\u542f\u7528\u72b6\u6001\uff01"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "\u89c6\u89c9\u53cd\u9988"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "\u5f53\u5149\u6807\u6d4f\u89c8\u6a21\u5f0f\u5904\u4e8e\u542f\u7528\u72b6\u6001\u65f6\uff1a"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "\u989c\u8272\u589e\u5f3a\u5de5\u5177"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "\u4e00\u79cd\u53ef\u81ea\u5b9a\u4e49\u7684\u989c\u8272\u6ee4\u955c\uff0c\u53ef\u5e94\u7528\u4e8e\u7f51\u9875\u4ee5\u589e\u5f3a\u989c\u8272\u7684\u8fa8\u8bc6\u5ea6\u3002"
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "\u989c\u8272\u8c03\u6574"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "\u5ea6\u6570"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "\u7b2c 1 \u6b65\uff1a\u9009\u62e9\u661f\u6807\u989c\u8272\u6700\u5f31\u7684\u884c\uff1a"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "\u7ea2\u8272"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "\u7eff\u8272"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "\u84dd\u8272"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "\u542f\u7528\uff1f"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "\u7b2c 2 \u6b65\uff1a\u8c03\u6574\u6ed1\u5757\uff0c\u76f4\u5230\u6240\u9009\u884c\u4e2d\u7684\u6240\u6709\u661f\u6807\u90fd\u6e05\u6670\u53ef\u89c1"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "\u8bbe\u7f6e\uff1a"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "\u91cd\u7f6e"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "\u786e\u5b9a"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "\u53d6\u6d88"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "\u8bbe\u7f6e"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "\u52a8\u753b\u653f\u7b56"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "\u4ec5\u8fd0\u884c\u4e00\u6b21\u52a8\u753b\uff0c\u6216\u5b8c\u5168\u505c\u7528\u52a8\u753b\u3002"
+  },
+  "ANIMATION_POLICY": {
+    "message": "\u52a8\u753b\u653f\u7b56\uff1a"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "\u5141\u8bb8\u663e\u793a\u6240\u6709\u52a8\u753b\u56fe\u7247\u3002"
+  },
+  "ANIMATION_ONCE": {
+    "message": "\u5141\u8bb8\u663e\u793a\u52a8\u753b\u56fe\u7247\uff08\u4f46\u53ea\u80fd\u663e\u793a\u4e00\u6b21\uff09\u3002"
+  },
+  "ANIMATION_NONE": {
+    "message": "\u505c\u7528\u6240\u6709\u56fe\u7247\u52a8\u753b\u3002"
+  }
+}

@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Image Alt Text Viewer"
+  },
+  "ALT_APPDESC": {
+    "message": "Umo\u017e\u0148uje nahradit obr\u00e1zky alternativn\u00edm textem."
+  },
+  "ALT_INFOBAR": {
+    "message": "Obr\u00e1zky byly nahrazeny textem z\u00a0atributu alt."
+  },
+  "ALT_UNDO": {
+    "message": "Zp\u011bt"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Dlouh\u00e9 popisy v kontextov\u00e9 nab\u00eddce"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Kliknut\u00edm prav\u00fdm tla\u010d\u00edtkem na libovoln\u00fd prvek s\u00a0atributem \u201elongdesc\u201c nebo \u201earia-describedat\u201c z\u00edsk\u00e1te jeho dlouh\u00fd popis."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Otev\u0159\u00edt dlouh\u00fd popis na nov\u00e9 kart\u011b"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "P\u0159idat k\u00a0prvk\u016fm s\u00a0atributem aria-describedat nebo longdesc ohrani\u010den\u00ed."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Mo\u017enosti"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Vysok\u00fd kontrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Umo\u017e\u0148uje zm\u011bnit nebo p\u0159evr\u00e1tit barevn\u00e9 sch\u00e9ma, aby webov\u00e9 str\u00e1nky byly l\u00e9pe \u010diteln\u00e9."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Norm\u00e1ln\u00ed"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Zv\u00fd\u0161en\u00fd kontrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Stupn\u011b \u0161ed\u00e9"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "P\u0159evr\u00e1cen\u00e9 barvy"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "P\u0159evr\u00e1cen\u00e9 stupn\u011b \u0161ed\u00e9"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "\u017dlut\u00e1 na \u010dern\u00e9"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Nastavit jako v\u00fdchoz\u00ed sch\u00e9ma"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Zapomenout p\u0159izp\u016fsoben\u00ed webu"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Vysok\u00fd kontrast je aktivov\u00e1n"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Vysok\u00fd kontrast je deaktivov\u00e1n"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Aktivovat"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Deaktivovat"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "V\u00fdchoz\u00ed barevn\u00e9 sch\u00e9ma:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Barevn\u00e9 sch\u00e9ma webu $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Zv\u00fdraznit pozici kurzoru pomoc\u00ed animace"
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Umo\u017e\u0148uje proch\u00e1zet text webov\u00fdch str\u00e1nek pomoc\u00ed kl\u00e1ves s \u0161ipkami."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Proch\u00e1zen\u00ed pomoc\u00ed kurzoru"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Mo\u017enosti proch\u00e1zen\u00ed pomoc\u00ed kurzoru"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Proch\u00e1zen\u00ed pomoc\u00ed kurzoru zapnete stisknut\u00edm kl\u00e1vesy <span class='key'>Alt</span> a kl\u00e1vesy <img src='increase_brightness.png'> (kl\u00e1vesa zv\u00fd\u0161en\u00ed jasu nebo F7). Opakovan\u00fdm stisknut\u00edm jej op\u011bt vypnete."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Stisknut\u00edm kl\u00e1vesy <span class='key'>F7</span> aktivujete proch\u00e1zen\u00ed pomoc\u00ed kurzoru. Opakovan\u00fdm stisknut\u00edm jej op\u011bt vypnete."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Zv\u00fdraznit pozici kurzoru rychl\u00fdm blik\u00e1n\u00edm"
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Kdy\u017e p\u0159ejdete k odkazu nebo ovl\u00e1dac\u00edm prvku, bude automaticky zam\u011b\u0159en. Na odkaz nebo tla\u010d\u00edtko kliknete stisknut\u00edm kl\u00e1vesy <span class='key'>Enter</span>. </p> <p> Kdy\u017e zam\u011b\u0159en\u00fd ovl\u00e1dac\u00ed prvek (nap\u0159\u00edklad textov\u00e9 pole nebo pole se seznamem) zachycuje kl\u00e1vesy se \u0161ipkami, v proch\u00e1zen\u00ed pomoc\u00ed kurzoru m\u016f\u017eete pokra\u010dovat stisknut\u00edm kl\u00e1vesy <span class='key'>Esc</span> a pot\u00e9 kl\u00e1vesy se \u0161ipkou vpravo \u010di vlevo. </p> <p> P\u0159\u00edpadn\u011b m\u016f\u017eete pomoc\u00ed kl\u00e1vesy <span class='key'>Tab</span> p\u0159ej\u00edt na dal\u0161\u00ed ovl\u00e1dac\u00ed prvek, kter\u00fd lze zam\u011b\u0159it. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Kdy\u017e kurzor p\u0159esko\u010d\u00ed o velkou vzd\u00e1lenost:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Kl\u00e1vesov\u00e9 p\u0159\u00edkazy"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Chcete-li se pohybovat po jednotliv\u00fdch slovech, p\u0159idr\u017ete kl\u00e1vesu <span class='key'>Option</span>."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Chcete-li se pohybovat po jednotliv\u00fdch slovech, p\u0159idr\u017ete kl\u00e1vesu <span class='key'>Control</span>."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>V dokumentu se m\u016f\u017eete pohybovat pomoc\u00ed kl\u00e1ves s \u0161ipkami. </p><p>Chcete-li p\u0159esunout kurzor, klikn\u011bte na libovoln\u00e9 m\u00edsto. </p> <p> Chcete-li vybrat text, stiskn\u011bte kl\u00e1vesy se \u0161ipkami a p\u0159idr\u017ete kl\u00e1vesu <span class='key'>Shift</span>.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "\u017d\u00e1dn\u00e1 zp\u011btn\u00e1 vazba, jen zobrazit kurzor"
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Toto roz\u0161\u00ed\u0159en\u00ed nab\u00edz\u00ed pohybliv\u00fd kurzor, d\u00edky kter\u00e9mu m\u016f\u017eete na webov\u00fdch str\u00e1nk\u00e1ch vyb\u00edrat text pomoc\u00ed kl\u00e1vesnice."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Vyzkou\u0161ejte to \u2013 proch\u00e1zen\u00ed pomoc\u00ed kurzoru je na t\u00e9to str\u00e1nce v\u017edy aktivov\u00e1no."
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Vizu\u00e1ln\u00ed zp\u011btn\u00e1 vazba"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Kdy\u017e je aktivov\u00e1no proch\u00e1zen\u00ed pomoc\u00ed kurzoru:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Vylep\u0161ova\u010d barev"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "P\u0159izp\u016fsobiteln\u00fd barevn\u00fd filtr pou\u017e\u00edvan\u00fd na webov\u00e9 str\u00e1nky s c\u00edlem zlep\u0161it vn\u00edm\u00e1n\u00ed barev."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "\u00daprava barev"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Stupe\u0148"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Krok 1: Vyberte \u0159\u00e1dek s\u00a0nejm\u00e9n\u011b jasn\u00fdmi hv\u011bzdi\u010dkami:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "\u010cerven\u00e1"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Zelen\u00e1"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Modr\u00e1"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Aktivovat?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Krok 2: Pohybujte posuvn\u00edkem, dokud ve vybran\u00e9m \u0159\u00e1dku nebudou vid\u011bt v\u0161echny hv\u011bzdi\u010dky"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Nastavit:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Resetovat"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Zru\u0161it"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Nastaven\u00ed"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Z\u00e1sady animac\u00ed"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Spustit animace pouze jednou nebo animaci zcela zak\u00e1zat"
+  },
+  "ANIMATION_POLICY": {
+    "message": "Z\u00e1sady animac\u00ed:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Povolit v\u0161echny animovan\u00e9 obr\u00e1zky"
+  },
+  "ANIMATION_ONCE": {
+    "message": "Povolit animovan\u00e9 obr\u00e1zky, ale pouze jednou"
+  },
+  "ANIMATION_NONE": {
+    "message": "Vypnout ve\u0161ker\u00e9 animace obr\u00e1zk\u016f"
+  }
+}

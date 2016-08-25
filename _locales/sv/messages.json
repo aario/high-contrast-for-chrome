@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Visningsprogram f\u00f6r Alt-text"
+  },
+  "ALT_APPDESC": {
+    "message": "Ers\u00e4tta bilder med deras alternativa text."
+  },
+  "ALT_INFOBAR": {
+    "message": "Bilderna har ersatts av deras alt-text."
+  },
+  "ALT_UNDO": {
+    "message": "\u00c5ngra"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "L\u00e5nga beskrivningar i snabbmenyn"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "H\u00f6gerklicka p\u00e5 n\u00e5gonting med attributet longdesc eller aria-describedat f\u00f6r att komma \u00e5t den l\u00e5nga beskrivningen."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "\u00d6ppna l\u00e5ng beskrivning p\u00e5 ny flik"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "L\u00e4gg till ramar i element med attributen aria-describedat eller longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Alternativ"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "H\u00f6g kontrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "\u00c4ndra eller invertera f\u00e4rgschemat f\u00f6r att g\u00f6ra webbsidorna enklare att l\u00e4sa."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normal"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "\u00d6kad kontrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Gr\u00e5skala"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Inverterad f\u00e4rg"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Omv\u00e4nd gr\u00e5skala"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Gult p\u00e5 svart"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Ange som standardschema"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Gl\u00f6m anpassningar av webbplats"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "H\u00f6g kontrast \u00e4r aktiverat"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "H\u00f6g kontrast \u00e4r inaktiverat"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Aktivera"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Inaktivera"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Standardschema f\u00f6r f\u00e4rger:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "F\u00e4rgschema f\u00f6r $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Visa mark\u00f6rens position med en animering."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Bl\u00e4ddra igenom texten p\u00e5 webbsidor med piltangenterna."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Textmark\u00f6rl\u00e4ge"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Alternativ f\u00f6r textmark\u00f6rl\u00e4get"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Tryck p\u00e5 <span class='key'>Alt</span> + <img src='increase_brightness.png'> (tangenten f\u00f6r att \u00f6ka ljusstyrkan eller F7) f\u00f6r att aktivera textmark\u00f6rl\u00e4get. Tryck igen f\u00f6r att inaktivera det."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Tryck p\u00e5 <span class='key'>F7</span> om du vill aktivera textmark\u00f6rl\u00e4get. Tryck igen om du vill inaktivera det."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "L\u00e5t mark\u00f6ren blinka till f\u00f6r att visa sin position."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>N\u00e4r du n\u00e5r en l\u00e4nk eller kontroll \u00e4r den automatiskt fokuserad.   Tryck p\u00e5 <span class='key'>Retur</span> f\u00f6r att klicka p\u00e5 en l\u00e4nk eller knapp. </p> <p>   N\u00e4r en fokuserad kontroll (som en textruta eller en listruta) visar   piltangenterna trycker du p\u00e5 <span class='key'>Esc</span> f\u00f6ljt av   v\u00e4nster eller h\u00f6ger pil f\u00f6r att forts\u00e4tta i textmark\u00f6rl\u00e4get. </p> <p>   Du kan \u00e4ven trycka p\u00e5 <span class='key'>Tab</span> f\u00f6r att flytta till   n\u00e4sta kontroll som kan fokuseras. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "N\u00e4r textmark\u00f6ren flyttas l\u00e5ngt bort:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Tangentbordskommandon"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Tryck l\u00e4nge p\u00e5 <span class='key'>Option</span> f\u00f6r att flytta efter ord."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Tryck l\u00e4nge p\u00e5 <span class='key'>Ctrl</span> f\u00f6r att flytta efter ord."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Anv\u00e4nd piltangenterna f\u00f6r att flytta i dokumentet. </p><p>Klicka n\u00e5gonstans f\u00f6r att flytta mark\u00f6ren till den platsen. </p> <p>   Tryck p\u00e5 <span class='key'>Skift</span> + pilarna f\u00f6r att markera text.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Ingen feedback, visa bara mark\u00f6ren."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Med det h\u00e4r till\u00e4gget f\u00e5r du en flyttbar mark\u00f6r p\u00e5 webbsidan s\u00e5 att du kan markera text med tangentbordet."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Prova nu \u2013 textmark\u00f6rl\u00e4get \u00e4r alltid aktiverat p\u00e5 den h\u00e4r sidan!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Visuell feedback"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "N\u00e4r textmark\u00f6rl\u00e4get \u00e4r aktiverat:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "F\u00e4rgf\u00f6rb\u00e4ttrare"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Ett anpassningsbart f\u00e4rgfilter till\u00e4mpas p\u00e5 webbsidor f\u00f6r att f\u00f6rb\u00e4ttra f\u00e4rguppfattningen."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "F\u00e4rgjustering"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Niv\u00e5"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Steg 1: V\u00e4lj raden med de svagaste stj\u00e4rnorna:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "R\u00f6d"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Gr\u00f6n"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Bl\u00e5"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Vill du aktivera?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Steg 2: Justera reglaget tills alla stj\u00e4rnor syns p\u00e5 den\n        valda raden"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Konfiguration:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "\u00c5terst\u00e4ll"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Avbryt"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Konfiguration"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Animeringspolicy"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "K\u00f6r endast animeringar en g\u00e5ng eller inaktivera animering helt."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Animeringspolicy:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Till\u00e5t alla animerade bilder."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Till\u00e5t animerade bilder, men bara en g\u00e5ng."
+  },
+  "ANIMATION_NONE": {
+    "message": "Inaktivera all bildanimering."
+  }
+}

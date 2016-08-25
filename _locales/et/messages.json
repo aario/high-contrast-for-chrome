@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Kujutise Alt-tekstivaatur"
+  },
+  "ALT_APPDESC": {
+    "message": "Kujutiste asendamine nende alternatiivse tekstiga."
+  },
+  "ALT_INFOBAR": {
+    "message": "Kujutised on asendatud alt-tekstiga."
+  },
+  "ALT_UNDO": {
+    "message": "V\u00f5ta tagasi"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Pikad kirjeldused kontekstimen\u00fc\u00fcs"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Paremkl\u00f5psake elemendil, mille atribuut on \u201elongdesc\u201d v\u00f5i \u201earia-describedat\u201d, et saada juurdep\u00e4\u00e4s selle pikale kirjeldusele."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Ava pikk kirjeldus uuel vahelehel"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Lisa \u00e4\u00e4ris elementidele, mis kasutavad atribuute aria-describedat v\u00f5i longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Valikud"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Suur kontrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "V\u00e4rviskeemi muutmine v\u00f5i vahetamine, et veebilehed oleksid paremini loetavad."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Tavaline"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Suurendatud kontrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Hallskaala"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Vahetatud v\u00e4rv"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "\u00dcmberp\u00f6\u00f6ratud hallskaala"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Kollane mustal"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "M\u00e4\u00e4ra vaikeskeemiks"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Unusta saidi kohandused"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Suur kontrastsus on lubatud"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Suur kontrastsus on keelatud"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Luba"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Keela"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Vaikev\u00e4rviskeem:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Saidi $1$ v\u00e4rviskeem:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "T\u00f5sta kursori asukoht esile animatsiooniga."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Veebilehtedel oleva teksti nooleklahvidega sirvimine."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Sisestusm\u00e4rgiga sirvimine"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Sisestusm\u00e4rgiga sirvimise valikud"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Sisestusm\u00e4rgiga sirvimise sissel\u00fclitamiseks vajutage klahvi <span class='key'>Alt</span> ja klahvi <img src='increase_brightness.png'> (heleduse suurendamise klahvi v\u00f5i klahvi F7). Selle v\u00e4ljal\u00fclitamiseks vajutage klahve uuesti."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Sisestusm\u00e4rgiga sirvimise sissel\u00fclitamiseks vajutage klahvi <span class='key'>F7</span>. Selle v\u00e4ljal\u00fclitamiseks vajutage klahvi uuesti."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "T\u00f5sta kursori asukoht esile kiire vilkumisega."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Kui j\u00f5uate lingi v\u00f5i juhtelemendini, fokuseeritakse see automaatselt.   Lingil v\u00f5i nupul kl\u00f5psamiseks vajutage <span class='key'>sisestusklahvi</span>. </p> <p>   Kui fokuseeritud juhtelement (n\u00e4iteks tekstikast v\u00f5i loendikast) j\u00e4\u00e4dvustab   nooleklahvid, vajutage sisestusm\u00e4rgiga sirvimise j\u00e4tkamiseks klahvi <span class='key'>Esc</span> ja siis   vasak- v\u00f5i paremnoolt. </p> <p>   Teise v\u00f5imalusena v\u00f5ite vajutada ka <span class='key'>tabulaatorit</span>, et liikuda j\u00e4rgmisele fokuseeritavale juhtelemendile. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Kui sisestusm\u00e4rk liigub edasi suure vahemaaga:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Klaviatuuri k\u00e4sud"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "S\u00f5nahaaval liikumiseks hoidke all <span class='key'>valikuklahvi</span>."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "S\u00f5nahaaval liikumiseks hoidke all <span class='key'>juhtklahvi</span>."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Kogu dokumendis liikumiseks kasutage nooleklahve. </p><p>Kursori liigutamiseks soovitud kohta kl\u00f5psake sellel kohal. </p> <p>   Teksti valimiseks vajutage <span class='key'>t\u00f5stuklahvi</span> ja nooli.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Kuva ainult kursor ilma tagasisideta."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "See laiendus lisab veebilehele liigutatava kursori, mille abil saate klaviatuuriga teksti valida."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Proovige seda kohe \u2013 sisestusm\u00e4rgiga sirvimine on sellel lehel alati lubatud!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Visuaalne tagasiside"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Kui sisestusm\u00e4rgiga sirvimine on lubatud, saate teha j\u00e4rgmist."
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "V\u00e4rvide t\u00e4iustaja"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Veebilehtedele rakendatav kohandatav v\u00e4rvifilter v\u00e4rvide tajumise t\u00e4iustamiseks."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "V\u00e4rvide korrigeerimine"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Aste"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "1. toiming. Valige v\u00e4himate t\u00e4rnidega rida:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Punane"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Roheline"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Sinine"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Kas lubada?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "2. toiming. Reguleerige liugurit, kuni k\u00f5ik t\u00e4rnid valitud real\n        on n\u00e4htaval"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Seadistamine:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "L\u00e4htesta"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "T\u00fchista"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Seadista"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Animatsioonide eeskirjad"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Animatsioone k\u00e4itatakse ainult \u00fche korra v\u00f5i keelatakse need t\u00e4ielikult."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Animatsioonide eeskirjad:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Luba k\u00f5ik animeeritud kujutised."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Luba animeeritud kujutised ainult \u00fcks kord."
+  },
+  "ANIMATION_NONE": {
+    "message": "Keela k\u00f5ik kujutiste animatsioonid."
+  }
+}

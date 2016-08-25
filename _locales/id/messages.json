@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Penampil Teks Alternatif Gambar"
+  },
+  "ALT_APPDESC": {
+    "message": "Mengganti gambar dengan teks alternatif."
+  },
+  "ALT_INFOBAR": {
+    "message": "Gambar telah diganti dengan teks alternatif."
+  },
+  "ALT_UNDO": {
+    "message": "Batalkan"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Deskripsi Panjang pada Menu Konteks"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Klik kanan pada item apa pun yang memiliki atribut \"longdesc\" atau \"aria-describedat\" untuk mengakses deskripsi lognya."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Buka Deskripsi Panjang di Tab Baru"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Tambahkan pembatas ke elemen yang memiliki atribut aria-describedat atau longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Opsi"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Kontras Tinggi"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Mengubah atau membalikkan skema warna untuk membuat laman web lebih mudah dibaca."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normal"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Kontras Ditingkatkan"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Abu-Abu"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Warna Terbalik"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Abu-Abu Terbalik"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Kuning di Atas Hitam"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Ditetapkan sebagai skema default"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Lupakan penyesuaian situs"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Kontras Tinggi Diaktifkan"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Kontras Tinggi Dinonaktifkan"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Aktifkan"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Nonaktifkan"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Skema warna default:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Skema warna untuk $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Sorot posisi kursor dengan animasi."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Menjelajahi teks laman web menggunakan tombol panah."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Penjelajahan Caret"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Opsi Penjelajahan Caret"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Tekan <span class='key'>Alt</span> + <img src='increase_brightness.png'> (tombol Tingkatkan Kecerahan atau F7) untuk mengaktifkan Penjelajahan Caret. Tekan lagi untuk menonaktifkannya."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Tekan <span class='key'>F7</span> untuk mengaktifkan Penjelajahan Caret. Tekan lagi untuk menonaktifkannya."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Sorot posisi kursor dengan lampu kilat cepat."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Saat Anda mengjangkau tautan atau kontrol, tautan atau kontrol tersebut akan otomatis terfokus.   Tekan <span class='key'>Enter</span> untuk mengeklik tautan atau tombol. </p> <p>   Saat kontrol terfokus (seperti kotak teks atau kotak daftar) menangkap   tombol panah, tekan <span class='key'>Esc</span> diikuti dengan   tanda panah kiri atau kanan untuk melanjutkan Penjelajahan Caret. </p> <p>   Atau, tekan <span class='key'>Tab</span> untuk berpindah ke   kontrol yang dapat difokuskan berikutnya. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Saat caret melompat dengan jarak yang jauh:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Perintah Keyboard"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Tahan <span class='key'>Opsi</span> untuk berpindah berdasarkan kata."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Tahan <span class='key'>Control</span> untuk berpindah dari kata ke kata."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Gunakan tombol panah untuk berpindah ke seluruh dokumen. </p><p>Klik di mana saja untuk memindahkan kursor ke lokasi tersebut. </p> <p>   Tekan <span class='key'>Shift</span> + tanda panah untuk memilih teks.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Tidak ada masukan, cukup tampilkan kursor."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Ekstensi ini memberi Anda kursor yang dapat digerakkan di laman web, memungkinkan Anda memilih teks dengan keyboard."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Cobalah sekarang - Penjelajahan Caret selalu diaktifkan pada laman ini!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Masukan Visual"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Saat Penjelajahan Caret diaktifkan:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Pemekat Warna"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Filter warna yang disesuaikan diterapkan ke laman web untuk meningkatkan persepsi warna."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Penyesuaian warna"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Derajat"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Langkah 1: Pilih baris dengan bintang paling redup:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Merah"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Hijau"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Biru"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Aktifkan?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Langkah 2: Sesuaikan penggeser hingga semua bintang terlihat di\n        baris yang dipilih"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Penyiapan:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Setel ulang"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "Oke"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Batal"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Penyiapan"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Kebijakan Animasi"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Menjalankan animasi hanya satu kali, atau menonaktifkan animasi sepenuhnya."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Kebijakan Animasi:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Izinkan semua gambar animasi."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Izinkan gambar animasi, tapi hanya satu kali."
+  },
+  "ANIMATION_NONE": {
+    "message": "Nonaktifkan semua animasi gambar."
+  }
+}

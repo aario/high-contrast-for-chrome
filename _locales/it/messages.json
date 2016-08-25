@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Visualizzazione testo alternativo immagine"
+  },
+  "ALT_APPDESC": {
+    "message": "Sostituisci le immagini con il relativo testo alternativo."
+  },
+  "ALT_INFOBAR": {
+    "message": "Le immagini sono state sostituite dal rispettivo testo alternativo."
+  },
+  "ALT_UNDO": {
+    "message": "Annulla"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Descrizioni dettagliate nel menu contestuale"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Fai clic con il pulsante destro del mouse su qualsiasi elemento con attributo \"longdesc\" o \"aria-describedat\" per accedere alla relativa descrizione dettagliata."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Apri descrizione dettagliata in una nuova scheda"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Aggiungi bordo a elementi con attributi aria-describedat o longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Opzioni"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Contrasto elevato"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Cambia o inverti la combinazione di colori per rendere pi\u00f9 leggibili le pagine web."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normale"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Contrasto aumentato"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Scala di grigi"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Colore invertito"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Scala di grigi invertita"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Giallo su nero"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Imposta come schema predefinito"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Elimina pesonalizzazioni sito"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "L'estensione Contrasto elevato \u00e8 attiva"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "L'estensione Contrasto elevato non \u00e8 attiva"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Abilita"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Disabilita"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Combinazione di colori predefinita:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Combinazione di colori per $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Evidenzia la posizione del cursore con un'animazione."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Scorri il testo delle pagine web utilizzando i tasti freccia."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Navigazione con cursore"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Opzioni di navigazione con cursore"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Premi <span class='key'>Alt</span> + <img src='increase_brightness.png'> (il tasto Aumenta luminosit\u00e0 o F7) per attivare la funzione di navigazione con cursore. Premi di nuovo per disattivarla."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Premi <span class='key'>F7</span> per attivare la funzione di navigazione con cursore. Premi di nuovo il tasto per disattivarla."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Metti in evidenza la posizione del cursore con un breve flash."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Quando raggiungi un link o un controllo, l'elemento viene attivato automaticamente. Premi <span class='key'>Invio</span> per fare clic su un link o un pulsante. </p> <p> Se un controllo attivato (come una casella di testo o una casella di riepilogo) rileva la pressione dei tasti freccia, premi <span class='key'>Esc</span> seguito dal tasto freccia sinistra o destra per continuare la navigazione con cursore. </p> <p> In alternativa, premi <span class='key'>Tab</span> per passare al controllo attivabile successivo. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Quando il cursore salta a un'altra parte lontana:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Comandi da tastiera"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Tieni premuto <span class='key'>Opzione</span> per spostarti per parole."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Tieni premuto <span class='key'>Ctrl</span> per spostarti per parole."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Premi i tasti freccia per spostarti nel documento. </p><p>Fai clic su un punto qualsiasi per spostare il cursore in tale punto. </p> <p> Premi <span class='key'>Maiusc</span> + frecce per selezionare il testo.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Nessun feedback, mostra solo il cursore."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Questa estensione inserisce un cursore mobile nella pagina web, che ti consente di selezionare testo con la tastiera."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Prova subito: la funzione di navigazione con cursore \u00e8 sempre attiva in questa pagina."
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Feedback visivo"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Quando la funzione di navigazione con cursore \u00e8 attiva:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Un filtro dei colori personalizzabile che viene applicato alle pagine web per migliorare la percezione dei colori."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Regolazione colore"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Livello"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Passaggio 1. Seleziona la riga con le stelline sbiadite:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Rosso"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Verde"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Blu"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Attivare?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Passaggio 2. Regola il dispositivo di scorrimento fino a visualizzare tutte le stelle nella riga selezionata."
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Configurazione:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Ripristina"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Annulla"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Configura"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Norme relative alle animazioni"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Esegui le animazioni solo una volta o disattivale completamente."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Norme relative alle animazioni:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Consenti tutte le immagini animate."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Consenti le immagini animate, ma solo una volta."
+  },
+  "ANIMATION_NONE": {
+    "message": "Disattiva tutte le animazioni."
+  }
+}

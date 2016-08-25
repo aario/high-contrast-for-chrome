@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Tr\u00ecnh xem v\u0103n b\u1ea3n thay th\u1ebf h\u00ecnh \u1ea3nh"
+  },
+  "ALT_APPDESC": {
+    "message": "Thay th\u1ebf h\u00ecnh \u1ea3nh b\u1eb1ng v\u0103n b\u1ea3n thay th\u1ebf."
+  },
+  "ALT_INFOBAR": {
+    "message": "H\u00ecnh \u1ea3nh \u0111\u00e3 \u0111\u01b0\u1ee3c thay th\u1ebf b\u1edfi v\u0103n b\u1ea3n thay th\u1ebf c\u1ee7a h\u00ecnh \u1ea3nh."
+  },
+  "ALT_UNDO": {
+    "message": "Ho\u00e0n t\u00e1c"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "M\u00f4 t\u1ea3 d\u00e0i trong menu ng\u1eef c\u1ea3nh"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Nh\u1ea5p chu\u1ed9t ph\u1ea3i v\u00e0o b\u1ea5t c\u1ee9 n\u1ed9i dung n\u00e0o c\u00f3 thu\u1ed9c t\u00ednh \"longdesc\" ho\u1eb7c \"aria-describedat\" \u0111\u1ec3 truy c\u1eadp v\u00e0o m\u00f4 t\u1ea3 d\u00e0i c\u1ee7a n\u1ed9i dung \u0111\u00f3."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "M\u1edf m\u00f4 t\u1ea3 d\u00e0i trong tab m\u1edbi"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Th\u00eam \u0111\u01b0\u1eddng vi\u1ec1n v\u00e0o ph\u1ea7n t\u1eed c\u00f3 thu\u1ed9c t\u00ednh aria-describedat ho\u1eb7c longdesc."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "T\u00f9y ch\u1ecdn"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "\u0110\u1ed9 t\u01b0\u01a1ng ph\u1ea3n cao"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Thay \u0111\u1ed5i ho\u1eb7c \u0111\u1ea3o ng\u01b0\u1ee3c l\u01b0\u1ee3c \u0111\u1ed3 m\u00e0u \u0111\u1ec3 gi\u00fap trang web d\u1ec5 \u0111\u1ecdc h\u01a1n."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "B\u00ecnh th\u01b0\u1eddng"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "\u0110\u1ed9 t\u01b0\u01a1ng ph\u1ea3n t\u0103ng"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Thang \u0111\u1ed9 x\u00e1m"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "M\u00e0u \u0111\u1ea3o ng\u01b0\u1ee3c"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Thang \u0111\u1ed9 x\u00e1m \u0111\u1ea3o ng\u01b0\u1ee3c"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "V\u00e0ng tr\u00ean n\u1ec1n \u0111en"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "\u0110\u1eb7t l\u00e0m giao th\u1ee9c m\u1eb7c \u0111\u1ecbnh"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "B\u1ecf qua c\u00e1c t\u00f9y ch\u1ec9nh \u0111\u1ed1i v\u1edbi trang web"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "\u0110\u1ed9 t\u01b0\u01a1ng ph\u1ea3n cao \u0111ang \u0111\u01b0\u1ee3c b\u1eadt"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "\u0110\u1ed9 t\u01b0\u01a1ng ph\u1ea3n cao \u0111ang b\u1ecb t\u1eaft"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "B\u1eadt"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "V\u00f4 hi\u1ec7u h\u00f3a"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "L\u01b0\u1ee3c \u0111\u1ed3 m\u00e0u m\u1eb7c \u0111\u1ecbnh:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "L\u01b0\u1ee3c \u0111\u1ed3 m\u00e0u d\u00e0nh cho $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "\u0110\u00e1nh d\u1ea5u v\u1ecb tr\u00ed con tr\u1ecf b\u1eb1ng ho\u1ea1t \u1ea3nh."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Duy\u1ec7t qua v\u0103n b\u1ea3n c\u1ee7a trang web b\u1eb1ng c\u00e1c ph\u00edm m\u0169i t\u00ean."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Duy\u1ec7t v\u1edbi con nh\u00e1y"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "T\u00f9y ch\u1ecdn Duy\u1ec7t v\u1edbi con nh\u00e1y"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Nh\u1ea5n <span class='key'>Alt</span> + <img src='increase_brightness.png'> (ph\u00edm T\u0103ng \u0111\u1ed9 s\u00e1ng ho\u1eb7c F7) \u0111\u1ec3 b\u1eadt ch\u1ebf \u0111\u1ed9 Duy\u1ec7t v\u1edbi con nh\u00e1y. Nh\u1ea5n l\u1ea1i \u0111\u1ec3 t\u1eaft."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Nh\u1ea5n <span class='key'>F7</span> \u0111\u1ec3 b\u1eadt ch\u1ebf \u0111\u1ed9 Duy\u1ec7t v\u1edbi con nh\u00e1y. Nh\u1ea5n l\u1ea1i \u0111\u1ec3 t\u1eaft."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "\u0110\u00e1nh d\u1ea5u nhanh v\u1ecb tr\u00ed con tr\u1ecf."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Khi b\u1ea1n t\u1edbi m\u1ed9t li\u00ean k\u1ebft ho\u1eb7c n\u00fat \u0111i\u1ec1u khi\u1ec3n, li\u00ean k\u1ebft ho\u1eb7c n\u00fat \u0111i\u1ec1u khi\u1ec3n \u0111\u00f3 s\u1ebd t\u1ef1 \u0111\u1ed9ng \u0111\u01b0\u1ee3c l\u1ea5y l\u00e0m ti\u00eau \u0111i\u1ec3m.   Nh\u1ea5n <span class='key'>Enter</span> \u0111\u1ec3 nh\u1ea5p v\u00e0o li\u00ean k\u1ebft ho\u1eb7c n\u00fat. </p> <p>   Khi m\u1ed9t n\u00fat \u0111i\u1ec1u khi\u1ec3n \u0111\u01b0\u1ee3c l\u1ea5y l\u00e0m ti\u00eau \u0111i\u1ec3m (nh\u01b0 h\u1ed9p v\u0103n b\u1ea3n ho\u1eb7c h\u1ed9p danh s\u00e1ch) \u0111ang ch\u1ee5p c\u00e1c ph\u00edm m\u0169i t\u00ean, nh\u1ea5n <span class='key'>Esc</span> r\u1ed3i \u0111\u1ebfn m\u0169i t\u00ean tr\u00e1i ho\u1eb7c ph\u1ea3i \u0111\u1ec3 ti\u1ebfp t\u1ee5c ch\u1ebf \u0111\u1ed9 Duy\u1ec7t v\u1edbi con nh\u00e1y. </p> <p>   Ho\u1eb7c, nh\u1ea5n v\u00e0o <span class='key'>Tab</span> \u0111\u1ec3 chuy\u1ec3n t\u1edbi n\u00fat \u0111i\u1ec1u khi\u1ec3n c\u00f3 th\u1ec3 l\u1ea5y l\u00e0m ti\u00eau \u0111i\u1ec3m ti\u1ebfp theo. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Khi con nh\u00e1y nh\u1ea3y m\u1ed9t kho\u1ea3ng c\u00e1ch r\u1ed9ng:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "L\u1ec7nh b\u00e0n ph\u00edm"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Nh\u1ea5n v\u00e0 gi\u1eef <span class='key'>T\u00f9y ch\u1ecdn</span> \u0111\u1ec3 di chuy\u1ec3n theo t\u1eeb."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Nh\u1ea5n v\u00e0 gi\u1eef <span class='key'>Control</span> \u0111\u1ec3 di chuy\u1ec3n theo t\u1eeb."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>S\u1eed d\u1ee5ng c\u00e1c ph\u00edm m\u0169i t\u00ean \u0111\u1ec3 di chuy\u1ec3n trong to\u00e0n b\u1ed9 t\u00e0i li\u1ec7u. </p><p>Nh\u1ea5p v\u00e0o n\u01a1i b\u1ea5t k\u1ef3 \u0111\u1ec3 di chuy\u1ec3n con tr\u1ecf t\u1edbi v\u1ecb tr\u00ed \u0111\u00f3. </p> <p>   Nh\u1ea5n <span class='key'>Shift</span> + c\u00e1c m\u0169i t\u00ean \u0111\u1ec3 ch\u1ecdn v\u0103n b\u1ea3n.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Kh\u00f4ng c\u00f3 ph\u1ea3n h\u1ed3i, ch\u1ec9 hi\u1ec3n th\u1ecb con tr\u1ecf."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Ti\u1ec7n \u00edch n\u00e0y cung c\u1ea5p cho b\u1ea1n m\u1ed9t con tr\u1ecf di \u0111\u1ed9ng trong trang web, cho ph\u00e9p b\u1ea1n ch\u1ecdn v\u0103n b\u1ea3n b\u1eb1ng b\u00e0n ph\u00edm."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "H\u00e3y d\u00f9ng th\u1eed ngay b\u00e2y gi\u1edd - ch\u1ebf \u0111\u1ed9 Duy\u1ec7t v\u1edbi con nh\u00e1y lu\u00f4n \u0111\u01b0\u1ee3c b\u1eadt tr\u00ean trang n\u00e0y!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Ph\u1ea3n h\u1ed3i tr\u1ef1c quan"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Khi ch\u1ebf \u0111\u1ed9 Duy\u1ec7t v\u1edbi con nh\u00e1y \u0111\u01b0\u1ee3c b\u1eadt:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Tr\u00ecnh t\u0103ng c\u01b0\u1eddng m\u00e0u"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "B\u1ed9 l\u1ecdc m\u00e0u t\u00f9y ch\u1ec9nh \u0111\u01b0\u1ee3c \u00e1p d\u1ee5ng cho c\u00e1c trang web \u0111\u1ec3 t\u0103ng c\u01b0\u1eddng nh\u1eadn bi\u1ebft m\u00e0u."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "\u0110i\u1ec1u ch\u1ec9nh m\u00e0u"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "M\u1ee9c \u0111\u1ed9"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "B\u01b0\u1edbc 1: Ch\u1ecdn h\u00e0ng c\u00f3 c\u00e1c ng\u00f4i sao nh\u1ea1t nh\u1ea5t:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "\u0110\u1ecf"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Xanh l\u1ee5c"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Xanh lam"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "B\u1eadt?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "B\u01b0\u1edbc 2: \u0110i\u1ec1u ch\u1ec9nh thanh tr\u01b0\u1ee3t cho \u0111\u1ebfn khi t\u1ea5t c\u1ea3 ng\u00f4i sao hi\u1ec3n th\u1ecb trong\n        h\u00e0ng \u0111\u00e3 ch\u1ecdn"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Thi\u1ebft l\u1eadp:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "\u0110\u1eb7t l\u1ea1i"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "H\u1ee7y"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Thi\u1ebft l\u1eadp"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Ch\u00ednh s\u00e1ch ho\u1ea1t \u1ea3nh"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Ch\u1ea1y ho\u1ea1t \u1ea3nh ch\u1ec9 m\u1ed9t l\u1ea7n ho\u1eb7c t\u1eaft ho\u00e0n to\u00e0n ho\u1ea1t \u1ea3nh."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Ch\u00ednh s\u00e1ch ho\u1ea1t \u1ea3nh:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Cho ph\u00e9p t\u1ea5t c\u1ea3 h\u00ecnh \u1ea3nh \u0111\u1ed9ng."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Cho ph\u00e9p h\u00ecnh \u1ea3nh \u0111\u1ed9ng nh\u01b0ng ch\u1ec9 \u0111\u01b0\u1ee3c xu\u1ea5t hi\u1ec7n m\u1ed9t l\u1ea7n."
+  },
+  "ANIMATION_NONE": {
+    "message": "T\u1eaft t\u1ea5t c\u1ea3 ho\u1ea1t \u1ea3nh."
+  }
+}

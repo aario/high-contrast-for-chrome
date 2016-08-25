@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "ALT-Textanzeige f\u00fcr Bilder"
+  },
+  "ALT_APPDESC": {
+    "message": "Bilder werden durch ihren alternativen Text ersetzt."
+  },
+  "ALT_INFOBAR": {
+    "message": "Bilder wurden durch ihren \"ALT\"-Text ersetzt."
+  },
+  "ALT_UNDO": {
+    "message": "R\u00fcckg\u00e4ngig"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Ausf\u00fchrliche Beschreibungen im Kontextmen\u00fc"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Klicken Sie mit der rechten Maustaste auf Elemente mit einem \"longdesc\"- oder \"aria-describedat\"-Attribut, um die ausf\u00fchrliche Beschreibung aufzurufen."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Ausf\u00fchrliche Beschreibung in neuem Tab \u00f6ffnen"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Rahmen zu Elementen mit \"aria-describedat\"- oder \"longdesc\"-Attribut hinzuf\u00fcgen"
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Optionen"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Hoher Kontrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Hiermit kann das Farbschema ge\u00e4ndert oder umgekehrt werden, damit Webseiten besser lesbar sind."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normal"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Kontrasterh\u00f6hung"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Graustufen"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Farbumkehrung"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Umgekehrte Graustufen"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Gelb auf Schwarz"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Als Standardschema festlegen"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Websiteanpassungen aufheben"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Hoher Kontrast ist aktiviert."
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Hoher Kontrast ist deaktiviert."
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Aktivieren"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Deaktivieren"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Standardfarbschema:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Farbschema f\u00fcr $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Cursorposition mit Animation markieren"
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Navigieren Sie mit den Pfeiltasten durch Webseitentext."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Tastaturnavigation"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Optionen f\u00fcr die Tastaturnavigation"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Dr\u00fccken Sie <span class='key'>Alt</span> + <img src='increase_brightness.png'> (die Taste zum Erh\u00f6hen der Helligkeit oder F7), um die Tastaturnavigation zu aktivieren. Durch erneutes Dr\u00fccken k\u00f6nnen Sie sie wieder deaktivieren."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Dr\u00fccken Sie <span class='key'>F7</span>, um die Tastaturnavigation zu aktivieren. Durch erneutes Dr\u00fccken k\u00f6nnen Sie sie wieder deaktivieren."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Cursorposition mit einem kurzen Blitz markieren"
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Wenn Sie auf einen Link oder ein Steuerelement treffen, werden diese automatisch markiert.   Dr\u00fccken Sie die <span class='key'>Eingabetaste</span>, um auf einen Link oder eine Schaltfl\u00e4che zu klicken. </p> <p>   Wenn ein markiertes Steuerelement wie ein Text- oder Listenfeld mit Pfeiltasten erfasst werden kann, dr\u00fccken Sie <span class='key'>Esc</span> gefolgt vom Links- oder Rechtspfeil, um weiter per Tastatur zu navigieren. </p> <p>   Alternativ k\u00f6nnen Sie die <span class='key'>Tabulatortaste</span> dr\u00fccken, um zum n\u00e4chsten Steuerelement zu gelangen. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Wenn der Cursor zu einer weit entfernten Stelle springt:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Tastaturbefehle"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Halten Sie die <span class='key'>Wahltaste</span> gedr\u00fcckt, um Wort f\u00fcr Wort vorzugehen."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Halten Sie die <span class='key'>Strg-Taste</span> gedr\u00fcckt, um Wort f\u00fcr Wort vorzugehen."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Mit den Pfeiltasten k\u00f6nnen Sie durch das Dokument navigieren. </p><p>Klicken Sie an einer Stelle, um den Cursor dort zu platzieren. </p> <p>   Mit <span class='key'>Shift</span> + Pfeiltaste k\u00f6nnen Sie Text ausw\u00e4hlen.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Kein Feedback, nur den Cursor zeigen"
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Mit dieser Erweiterung verf\u00fcgen Sie auf der Webseite \u00fcber einen beweglichen Cursor und k\u00f6nnen Text mit der Tastatur ausw\u00e4hlen."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Probieren Sie es aus. Die Tastaturnavigation ist auf dieser Seite immer aktiviert."
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Visuelles Feedback"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Wenn die Tastaturnavigation aktiviert ist:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Color Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Anpassbarer Farbfilter zur Verbesserung der Farbwahrnehmung auf Webseiten"
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Farbanpassung"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Grad"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Schritt 1: W\u00e4hlen Sie die Zeile mit den am schlechtesten sichtbaren Sternen:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Rot"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Gr\u00fcn"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Blau"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Aktivieren?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Schritt 2: Verschieben Sie den Regler, bis alle Sterne in der ausgew\u00e4hlten Zeile sichtbar sind."
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Einrichtung:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Zur\u00fccksetzen"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Abbrechen"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Einrichtung"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Animationsrichtlinie"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Animationen nur ein Mal abspielen oder Animationen vollst\u00e4ndig deaktivieren"
+  },
+  "ANIMATION_POLICY": {
+    "message": "Animationsrichtlinie:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Alle animierten Bilder zulassen"
+  },
+  "ANIMATION_ONCE": {
+    "message": "Animierte Bilder zulassen, aber nur ein Mal anzeigen"
+  },
+  "ANIMATION_NONE": {
+    "message": "Alle Bildanimationen deaktivieren"
+  }
+}

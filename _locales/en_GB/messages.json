@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Image Alt Text Viewer"
+  },
+  "ALT_APPDESC": {
+    "message": "Replace images with their alt text."
+  },
+  "ALT_INFOBAR": {
+    "message": "Images have been replaced by their alt text."
+  },
+  "ALT_UNDO": {
+    "message": "Undo"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Long Descriptions in Context Menu"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Right-click on anything with a \"longdesc\" or \"aria-describedat\" attribute to access its long description."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Open Long Description In New Tab"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Add border to elements with aria-describedat or longdesc attributes."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Options"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "High Contrast"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Change or invert the colour scheme to make web pages easier to read."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Normal"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Increased Contrast"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Greyscale"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Inverted Colour"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Inverted Greyscale"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Yellow on Black"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Set as default scheme"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Forget site customisations"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "High Contrast is Enabled"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "High Contrast is Disabled"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Enable"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Disable"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Default colour scheme:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Colour scheme for $1$:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Highlight the cursor position with an animation."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "Browse the text of web pages using arrow keys."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Caret Browsing"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Caret Browsing Options"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Press <span class='key'>Alt</span> + <img src='increase_brightness.png'> (the Increase Brightness key, or F7) to turn on Caret Browsing. Press it again to turn it off."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Press <span class='key'>F7</span> to turn on Caret Browsing. Press it again to turn it off."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Highlight the cursor position with a quick flash."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>When you reach a link or control, it is automatically focused. Press <span class='key'>Enter</span> to click a link or button. </p> <p> When a focused control (like a text box or a list box) is capturing arrow keys, press <span class='key'>Esc</span> followed by the left or right arrow to continue Caret Browsing. </p> <p> Alternatively, press <span class='key'>Tab</span> to move to the next focusable control. </p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "When the caret jumps by a large distance:"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Keyboard Commands"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Hold down <span class='key'>Option</span> to move by words."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Hold down <span class='key'>Control</span> to move by words."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Use arrow keys to move throughout the document. </p><p>Click anywhere to move the cursor to that location. </p> <p> Press <span class='key'>Shift</span> + arrows to select text.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "No feedback, just show the cursor."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "This extension gives you a movable cursor in the web page, allowing you to select text with the keyboard."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Try it out now \u2013 Caret Browsing is always enabled on this page!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Visual Feedback"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "When Caret Browsing is enabled:"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Colour Enhancer"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "A customisable colour filter applied to web pages to improve colour perception."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Colour adjustment"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Degree"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "Step 1: Select the row with the faintest stars:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Red"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Green"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Blue"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Enable?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "Step 2: Adjust the slider until all of the stars are visible in the\n        selected row"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Set-up:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Reset"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "OK"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Cancel"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Set-up"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Animation Policy"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Run animations only once, or disable animation completely."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Animation Policy:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "Allow all animated images."
+  },
+  "ANIMATION_ONCE": {
+    "message": "Allow animated images, but only once."
+  },
+  "ANIMATION_NONE": {
+    "message": "Disable all image animation."
+  }
+}

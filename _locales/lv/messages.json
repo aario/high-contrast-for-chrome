@@ -1,0 +1,199 @@
+﻿{
+  "ALT_APPNAME": {
+    "message": "Att\u0113lu \u201cALT\u201d teksta skat\u012bt\u0101js"
+  },
+  "ALT_APPDESC": {
+    "message": "Aizst\u0101t att\u0113lus ar to alternat\u012bvo tekstu."
+  },
+  "ALT_INFOBAR": {
+    "message": "Att\u0113li ir aizst\u0101ti, izmantojot to alternat\u012bvo tekstu."
+  },
+  "ALT_UNDO": {
+    "message": "Atsaukt"
+  },
+  "LONGDESC_APPNAME": {
+    "message": "Garais apraksts kontekstizv\u0113ln\u0113"
+  },
+  "LONGDESC_APPDESC": {
+    "message": "Lai piek\u013c\u016btu garajam aprakstam, ar peles labo pogu noklik\u0161\u0137iniet uz jebkura elementa, kuram ir atrib\u016bts \u201clongdesc\u201d vai \u201caria-describedat\u201d."
+  },
+  "LONGDESC_CONTEXT_MENU_ITEM": {
+    "message": "Atv\u0113rt garo aprakstu jaun\u0101 ciln\u0113"
+  },
+  "LONGDESC_ADD_BORDER_CHECKBOX": {
+    "message": "Pievienot apmali elementiem, kuriem ir atrib\u016bts \u201caria-describedat\u201d vai \u201clongdesc\u201d."
+  },
+  "LONGDESC_OPTIONS": {
+    "message": "Opcijas"
+  },
+  "HIGHCONTRAST_APPNAME": {
+    "message": "Liels kontrasts"
+  },
+  "HIGHCONTRAST_APPDESC": {
+    "message": "Main\u012bt vai apgriezt kr\u0101su sh\u0113mu, lai interneta lapas k\u013c\u016btu viegl\u0101k las\u0101mas."
+  },
+  "HIGHCONTRAST_MODE_NORMAL": {
+    "message": "Parasts"
+  },
+  "HIGHCONTRAST_INCREASED_CONTRAST": {
+    "message": "Palielin\u0101ts kontrasts"
+  },
+  "HIGHCONTRAST_GRAYSCALE": {
+    "message": "Pel\u0113kto\u0146i"
+  },
+  "HIGHCONTRAST_INVERTED_COLOR": {
+    "message": "Apgrieztas kr\u0101sas"
+  },
+  "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+    "message": "Apgriezti pel\u0113kto\u0146i"
+  },
+  "HIGHCONTRAST_YELLOW_ON_BLACK": {
+    "message": "Dzeltens uz melna"
+  },
+  "HIGHCONTRAST_SETDEFAULT": {
+    "message": "Iestat\u012bt k\u0101 noklus\u0113juma sh\u0113mu"
+  },
+  "HIGHCONTRAST_FORGET": {
+    "message": "Aizmirst vietnes piel\u0101gojumus"
+  },
+  "HIGHCONTRAST_ENABLED": {
+    "message": "Lielais kontrasts ir iesp\u0113jots"
+  },
+  "HIGHCONTRAST_DISABLED": {
+    "message": "Lielais kontrasts ir atsp\u0113jots"
+  },
+  "HIGHCONTRAST_ENABLE": {
+    "message": "Iesp\u0113jot"
+  },
+  "HIGHCONTRAST_DISABLE": {
+    "message": "Atsp\u0113jot"
+  },
+  "HIGHCONTRAST_DEFAULT": {
+    "message": "Noklus\u0113juma kr\u0101su sh\u0113ma:"
+  },
+  "HIGHCONTRAST_": {
+    "message": "Vietnes $1$ kr\u0101su sh\u0113ma:",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CARET_BROWSING_ANIMATION": {
+    "message": "Izcelt kursora poz\u012bciju ar anim\u0101ciju."
+  },
+  "CARET_BROWSING_APPDESC": {
+    "message": "P\u0101rl\u016bkot t\u012bmek\u013ca lapu tekstu, izmantojot bulttausti\u0146us."
+  },
+  "CARET_BROWSING_APPNAME": {
+    "message": "Tausti\u0146p\u0101rl\u016bko\u0161ana"
+  },
+  "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+    "message": "Tausti\u0146p\u0101rl\u016bko\u0161anas opcijas"
+  },
+  "CARET_BROWSING_ENABLEDISABLECROS": {
+    "message": "Lai iesl\u0113gtu tausti\u0146p\u0101rl\u016bko\u0161anu, nospiediet tausti\u0146u <span class='key'>Alt</span> un <img src='increase_brightness.png'> (spilgtuma palielin\u0101\u0161anas tausti\u0146\u0161 vai\u00a0F7). Lai izsl\u0113gtu tausti\u0146p\u0101rl\u016bko\u0161anu, v\u0113lreiz nospiediet \u0161os tausti\u0146us."
+  },
+  "CARET_BROWSING_ENABLEDISABLENONCROS": {
+    "message": "Lai iesl\u0113gtu tausti\u0146p\u0101rl\u016bko\u0161anu, nospiediet tausti\u0146u\u00a0<span class='key'>F7</span>. Lai to izsl\u0113gtu, v\u0113lreiz nospiediet \u0161o tausti\u0146u."
+  },
+  "CARET_BROWSING_FLASH": {
+    "message": "Izcelt kursora poz\u012bciju ar \u0101tru mirgo\u0161anu."
+  },
+  "CARET_BROWSING_FOCUSHELP": {
+    "message": "<p>Kad sasniedzat saiti vai vad\u012bklu, t\u0101 tiek autom\u0101tiski fokus\u0113ta. Lai noklik\u0161\u0137in\u0101tu uz saites vai pogas, nospiediet tausti\u0146u <span class='key'>Enter</span>. </p> <p>Kad fokus\u0113t\u0101 vad\u012bkl\u0101 (piem\u0113ram, tekstlodzi\u0146\u0101 vai saraksta lodzi\u0146\u0101) tiek tverti bulttausti\u0146i, nospiediet tausti\u0146u <span class='key'>Esc</span> un p\u0113c tam\u00a0\u2014 kreiso vai labo bulttausti\u0146u, lai turpin\u0101tu tausti\u0146p\u0101rl\u016bko\u0161anu. </p> <p> Varat ar\u012b nospiest tausti\u0146u <span class='key'>Tab</span>, lai p\u0101rvietotos uz n\u0101kamo fokus\u0113jamo vad\u012bklu.</p>"
+  },
+  "CARET_BROWSING_JUMP": {
+    "message": "Kad kursors tiek p\u0101rvietots \u013coti t\u0101lu"
+  },
+  "CARET_BROWSING_KEYBOARDCOMMANDS": {
+    "message": "Tastat\u016bras komandas"
+  },
+  "CARET_BROWSING_MOVEBYWORDSMAC": {
+    "message": "Lai p\u0101rvietotos pa v\u0101rdiem, turiet nospiestu tausti\u0146u <span class='key'>Option</span>."
+  },
+  "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+    "message": "Lai p\u0101rvietotos pa v\u0101rdiem, turiet nospiestu tausti\u0146u <span class='key'>Control</span>."
+  },
+  "CARET_BROWSING_NAVHELP": {
+    "message": "<p>Lai p\u0101rvietotos vis\u0101 dokument\u0101, izmantojiet bulttausti\u0146us. </p><p>Lai p\u0101rvietotu kursoru uz k\u0101du vietu, noklik\u0161\u0137iniet attiec\u012bgaj\u0101 viet\u0101. </p> <p>Lai atlas\u012btu tekstu, nospiediet tausti\u0146u <span class='key'>Shift</span> un attiec\u012bgo bulti\u0146u.</p>"
+  },
+  "CARET_BROWSING_NOFEEDBACK": {
+    "message": "Ner\u0101d\u012bt atsauksmes; r\u0101d\u012bt tikai kursoru."
+  },
+  "CARET_BROWSING_SUBHEADING1": {
+    "message": "Ja izmantojat \u0161o papla\u0161in\u0101jumu, t\u012bmek\u013ca lap\u0101 tiek r\u0101d\u012bts kust\u012bgs kursors, lai j\u016bs var\u0113tu atlas\u012bt tekstu, lietojot tastat\u016bru."
+  },
+  "CARET_BROWSING_SUBHEADING2": {
+    "message": "Izm\u0113\u0123iniet t\u016bl\u012bt\u00a0\u2014 \u0161aj\u0101 lap\u0101 vienm\u0113r ir iesp\u0113jota tausti\u0146p\u0101rl\u016bko\u0161ana!"
+  },
+  "CARET_BROWSING_VISUALFEEDBACK": {
+    "message": "Vizu\u0101las atsauksmes"
+  },
+  "CARET_BROWSING_WHENENABLED": {
+    "message": "Kad ir iesp\u0113jota tausti\u0146p\u0101rl\u016bko\u0161ana"
+  },
+  "COLOR_ENHANCER_APPNAME": {
+    "message": "Kr\u0101su uzlabot\u0101js"
+  },
+  "COLOR_ENHANCER_APPDESC": {
+    "message": "Piel\u0101gojams kr\u0101su filtrs, kas tiek lietots vietn\u0113s, lai uzlabotu kr\u0101su uztveri."
+  },
+  "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+    "message": "Kr\u0101su piel\u0101go\u0161ana"
+  },
+  "COLOR_ENHANCER_DEGREE": {
+    "message": "Pak\u0101pe"
+  },
+  "COLOR_ENHANCER_TYPE_CHOICE": {
+    "message": "1.\u00a0darb\u012bba. Atlasiet rindu ar bl\u0101v\u0101kaj\u0101m zvaigzn\u0113m:"
+  },
+  "COLOR_ENHANCER_TYPE_RED": {
+    "message": "Sarkana"
+  },
+  "COLOR_ENHANCER_TYPE_GREEN": {
+    "message": "Za\u013ca"
+  },
+  "COLOR_ENHANCER_TYPE_BLUE": {
+    "message": "Zila"
+  },
+  "COLOR_ENHANCER_ENABLE": {
+    "message": "Vai iesp\u0113jot?"
+  },
+  "COLOR_ENHANCER_SEVERITY": {
+    "message": "2.\u00a0darb\u012bba. Piel\u0101gojiet sl\u012bdni, l\u012bdz visas zvaigzn\u012btes atlas\u012btaj\u0101 rind\u0101\n        ir redzamas"
+  },
+  "COLOR_ENHANCER_SETUP_HEADING": {
+    "message": "Iestat\u012b\u0161ana:"
+  },
+  "COLOR_ENHANCER_RESET": {
+    "message": "Atiestat\u012bt"
+  },
+  "COLOR_ENHANCER_OK": {
+    "message": "Labi"
+  },
+  "COLOR_ENHANCER_CANCEL": {
+    "message": "Atcelt"
+  },
+  "COLOR_ENHANCER_SETUP_BUTTON": {
+    "message": "Iestat\u012b\u0161ana"
+  },
+  "ANIMATION_APPNAME": {
+    "message": "Anim\u0101ciju politika"
+  },
+  "ANIMATION_APPDESC": {
+    "message": "Izpild\u012bt anim\u0101cijas tikai vienreiz vai piln\u012bb\u0101 t\u0101s atsp\u0113jot."
+  },
+  "ANIMATION_POLICY": {
+    "message": "Anim\u0101ciju politika:"
+  },
+  "ANIMATION_ALLOWED": {
+    "message": "At\u013caut visus anim\u0113tos att\u0113lus."
+  },
+  "ANIMATION_ONCE": {
+    "message": "At\u013caut anim\u0113tos att\u0113lus, bet tikai vienreiz."
+  },
+  "ANIMATION_NONE": {
+    "message": "Atsp\u0113jot visu att\u0113lu anim\u0101ciju."
+  }
+}
