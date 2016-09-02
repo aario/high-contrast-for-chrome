@@ -23,3 +23,7 @@ Original copyright of the work is:
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 ```
+
+## Screenshot
+![screenshot](/screenshot.png?raw=true "Screenshot")
+
