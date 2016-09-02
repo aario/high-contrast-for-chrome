@@ -1,5 +1,9 @@
 # high-contrast-for-chrome
 Fork of high contrast extension for Chrome and Chromium browsers with more presets.
+
+## Screenshot
+![screenshot](/screenshot.png?raw=true "Screenshot")
+
 Original extension can be downloaded from:
 - https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en
 
@@ -23,7 +27,3 @@ Original copyright of the work is:
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 ```
-
-## Screenshot
-![screenshot](/screenshot.png?raw=true "Screenshot")
-
