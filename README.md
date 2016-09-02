@@ -2,7 +2,7 @@
 Fork of high contrast extension for Chrome and Chromium browsers with more presets.
 
 ## Screenshot
-![screenshot](/screenshot.png?raw=true "Screenshot")
+![screenshot](/screenshot.png?raw=true "Fallout?")
 
 Original extension can be downloaded from:
 - https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en
